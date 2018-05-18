@@ -14,15 +14,15 @@ I'm open to changing my mind on any of these! Try to convince me!
 
 # California
 
-* **Governor: Delaine Eastin**
+* **Governor: Delaine Eastin** Newsom loves gays as long as you're not homeless. Villaraigosa is part of the corporate party machine. There's no right-wing mega-evils in this race, only Democrat kilo-evils. Eastin is a great, safe vote for leftists and liberals alike.
 * **Lt Gov: Gayle McLaughlin**
 * **Sec of State: Alex Padilla** Tough call. I like Rydberg but Padilla is the safer bet. Republicans are polling well, this race is too close to spoil.
 * **Controller: Betty Yee** Again, Finley is better but Yee is safer.
 * **Treasurer: Kevin Akin**
 * **Atty General: Dave Jones** I wanted to like Becerra but he's wishywashy on the death penalty
 * **Insurance Commissioner: Nathalie Hrizi** Poizner sucks and Lara is safest bet, but Hrizi is worth the risk here IMO. If you're feeling super nervous vote Lara I guess.
-* ** Board of Equalizations 2: none** No great candidates, position has no power
-* ** Superintendent of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
+* **Board of Equalizations 2: none** No great candidates, position has no power
+* **Superintendent of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
 
 # East Bay / Alameda County / Oakland
 
@@ -31,7 +31,7 @@ I'm open to changing my mind on any of these! Try to convince me!
 * **Supervisor 3rd District: Wilma Chan** She voted against Urban Shield. Even though she's running unopposed, she deserves a boost for that.
 * **Assessor: Phong La**
 * **Clerk: Melissa Wilk**
-* **DA: Pamela Price** An actual factual prison abolitionist, endorsed by Angela Davis. For real.
+* **DA: Pamela Price** An actual factual prison abolitionist, endorsed by Angela Davis. For real. I am so happy I get to vote for her.
 * **Sheriff: write in anyone** Seriously, Ahern is monster and he's running unopposed. Write in anyone else and remember to fill in the arrow. Write in your mom, or "fuck you". Either works.
 
 # the great gay judge debate
