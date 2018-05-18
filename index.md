@@ -8,9 +8,9 @@ title: Yar's Voting Guide
 
 I'm open to changing my mind on any of these! Try to convince me!
 
-# Federal
+# US Senate
 
-* **Senate: Kevin De Leon** Only the top two vote-getters in this primary will be on the November ballot. #1 will certainly be Feinstein, and the rest are scrambling for #2. Republicans are doing frighteningly well, including an [actual nazi](https://www.snopes.com/fact-check/patrick-little-neo-nazi-california/) who [polled in 2nd place](http://www.surveyusa.com/client/PollReport.aspx?g=e60651f4-03ad-4a80-9b0d-09bc68bbdc74) last month. Some leftists love Hildebrand, but he's not viable. Because De Leon takes corporate money and endorsed Clinton two years ago, the Green Party wants you to WRITE IN some rando with no campaign - this makes me so angry! Even the [SF Berniecrats](http://www.sfberniecrats.com/june_2018_endorsements) have gotten over it and picked De Leon. If you want to actually replace Feinstein with someone better, and you don't want to spend this whole year dealing with california nazis, please please please hold your nose and vote for De Leon!
+* **Vote for Kevin De Leon** Only the top two vote-getters in this primary will be on the November ballot. #1 will certainly be Feinstein, and the rest are scrambling for #2. Republicans are doing frighteningly well, including an [actual nazi](https://www.snopes.com/fact-check/patrick-little-neo-nazi-california/) who [polled in 2nd place](http://www.surveyusa.com/client/PollReport.aspx?g=e60651f4-03ad-4a80-9b0d-09bc68bbdc74) last month. Some leftists love Hildebrand, but he's not viable. Because De Leon takes corporate money and endorsed Clinton two years ago, the Green Party wants you to WRITE IN some rando with no campaign - this makes me so angry! Even the [SF Berniecrats](http://www.sfberniecrats.com/june_2018_endorsements) have gotten over it and picked De Leon. If you want to actually replace Feinstein with someone better, and you don't want to spend this whole year dealing with california nazis, please please please hold your nose and vote for De Leon!
 
 # California
 
