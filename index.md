@@ -2,7 +2,6 @@
 layout: default
 content_type: md
 title: Yar's Voting Guide
-tagline: Oakland, California, June 2018
 ---
 
 # intro
