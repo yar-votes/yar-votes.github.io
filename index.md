@@ -2,6 +2,7 @@
 layout: default
 content_type: md
 title: Yar's Voting Guide
+tagline: Oakland, California, June 2018
 ---
 
 # intro
@@ -22,7 +23,7 @@ I'm open to changing my mind on any of these! Try to convince me!
 * **Atty General: Dave Jones** I wanted to like Becerra but he's wishywashy on the death penalty
 * **Insurance Commissioner: Nathalie Hrizi** Poizner sucks and Lara is safest bet, but Hrizi is worth the risk here IMO. If you're feeling super nervous vote Lara I guess.
 * **Board of Equalizations 2: none** No great candidates, position has no power
-* **Superintendent of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
+* **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
 
 # East Bay / Alameda County / Oakland
 
@@ -36,7 +37,19 @@ I'm open to changing my mind on any of these! Try to convince me!
 
 # the great gay judge debate
 
-this deserves its own section...
+**Alameda County Superior Court Judge, Office #11: Karen Katz** ho boy. this deserves its own section...
+
+Alameda County Superior Court has [dozens of judges](https://ballotpedia.org/Superior_Court_of_Alameda_County,_California). When they come up for renewal every few years, they usually stay off the ballot, unless someone decides to pick ''that judge in particular'' and run a campaign against them.
+
+[Judge Kolakowski](https://en.wikipedia.org/wiki/Victoria_Kolakowski) is a transgender woman, and [Judge Flanagan](https://en.wikipedia.org/wiki/Tara_Flanagan) is a cis lesbian. All the other judges are straight and cis.
+
+Flanagan has [a reputation](http://www.therobingroom.com/california/Judge.aspx?id=14941) for being man-hating and racist. I am sure that the man-hating part is based in part on hateful stereotypes about lesbians. And I am sure that the racism part is real. She is a "former-prosecutor-turned-domestic-violence-survivor's advocate" which screams carceral feminism.
+
+A defense attorney, Karen Katz, who is also a bisexual woman, is [challenging Flanagan](https://www.eastbayexpress.com/oakland/karen-katz-says-her-challenge-of-judge-tara-flanagan-should-surprise-no-one/Content?oid=16110763). Katz has a history of personal grudges against Flanagan and has even faced her in court, but she says her campaign is focused on bail reform and restorative justice. Meanwhile Flanagan and her supporters are calling Katz's campaign [homophobic](https://eastbaystonewalldemocrats.org/news/5883000), which sounds a lot like bi erasure.
+
+I think Katz should have run against a different judge. I'm sure Flanagan is terrible, and I'm sure there are even worse judges out there. The decision to run a dirty campaign distracts from any systemic issues she claims to care about. At worst it inspires conspiracy theories from cis lesbians. At best it's a poor, shortsighted, almost tragic way to start a career.
+
+I'll vote for Katz, but the whole thing is a mess IMO.
 
 # other voting guides
 
