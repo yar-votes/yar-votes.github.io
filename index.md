@@ -37,7 +37,7 @@ I'm open to changing my mind on any of these! Try to convince me!
 
 # the great gay judge debate
 
-**Alameda County Superior Court Judge, Office #11: Karen Katz** ho boy. this deserves its own section...
+**Superior Court Judge #11: Karen Katz** ho boy. this deserves its own section...
 
 Alameda County Superior Court has [dozens of judges](https://ballotpedia.org/Superior_Court_of_Alameda_County,_California). When they come up for renewal every few years, they usually stay off the ballot, unless someone decides to pick ''that judge in particular'' and run a campaign against them.
 
