@@ -36,6 +36,8 @@ I'm open to changing my mind on any of these! Try to convince me!
 * **DA: Pamela Price** An actual factual prison abolitionist, endorsed by Angela Davis. For real. I am so happy I get to vote for her.
 * **Sheriff: write in anyone** Seriously, Ahern is monster and he's running unopposed. Write in anyone else and remember to fill in the arrow. Write in your mom, or "fuck you". Either works.
 
+Also, does anybody want to run for sheriff? Now's a good time.
+
 # the great gay judge debate
 
 **Superior Court Judge #11: Karen Katz** ho boy. this deserves its own section...
