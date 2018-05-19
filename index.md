@@ -8,7 +8,7 @@ title: Yar's Voting Guide
 
 I'm open to changing my mind on any of these! Try to convince me!
 
-''Remember to vote on June 5!!!''
+ *Remember to vote on June 5!!!*
 
 # US
 
@@ -40,7 +40,7 @@ I'm open to changing my mind on any of these! Try to convince me!
 
 **Superior Court Judge #11: Karen Katz** ho boy. this deserves its own section...
 
-Alameda County Superior Court has [dozens of judges](https://ballotpedia.org/Superior_Court_of_Alameda_County,_California). When they come up for renewal every few years, they usually stay off the ballot, unless someone decides to pick ''that judge in particular'' and run a campaign against them.
+Alameda County Superior Court has [dozens of judges](https://ballotpedia.org/Superior_Court_of_Alameda_County,_California). When they come up for renewal every few years, they usually stay off the ballot, unless someone decides to pick *that judge in particular* and run a campaign against them.
 
 [Judge Kolakowski](https://en.wikipedia.org/wiki/Victoria_Kolakowski) is a transgender woman, and [Judge Flanagan](https://en.wikipedia.org/wiki/Tara_Flanagan) is a cis lesbian. All the other judges are straight and cis.
 
