@@ -8,6 +8,8 @@ title: Yar's Voting Guide
 
 I'm open to changing my mind on any of these! Try to convince me!
 
+''Remember to vote on June 5!!!''
+
 # US
 
 * **Senate: Kevin De Leon** Only the top two vote-getters in this primary will be on the November ballot. #1 will certainly be Feinstein, and the rest are scrambling for #2. Republicans are doing frighteningly well, including an [actual nazi](https://www.snopes.com/fact-check/patrick-little-neo-nazi-california/) who [polled in 2nd place](http://www.surveyusa.com/client/PollReport.aspx?g=e60651f4-03ad-4a80-9b0d-09bc68bbdc74) last month. Some leftists love Hildebrand, but he's not viable. Because De Leon takes corporate money and endorsed Clinton two years ago, the Green Party wants you to [WRITE IN](https://acgreens.wordpress.com/voter-guides/) some rando with no campaign - this makes me so angry! Even the [SF Berniecrats](http://www.sfberniecrats.com/june_2018_endorsements) have gotten over it and picked De Leon. If you want to actually replace Feinstein with someone better, and you don't want to spend all summer dealing with california nazis, please please please hold your nose and vote for De Leon!
@@ -28,7 +30,7 @@ I'm open to changing my mind on any of these! Try to convince me!
 # East Bay / Alameda County / Oakland
 
 * **State Assembly District 18: Rob Bonta** he's not great but Slauson sucks
-* **Supervisor 3rd District: Wilma Chan** She voted against Urban Shield. Even though she's running unopposed, she deserves a boost for that.
+* **Supervisor 3rd District: Wilma Chan** She voted against Urban Shield. Even though she's running unopposed, she deserves a boost for that. There's also a write-in candidate, Leslie Bonett, if you're feeling oppositional.
 * **Assessor: Phong La**
 * **Clerk: Melissa Wilk**
 * **DA: Pamela Price** An actual factual prison abolitionist, endorsed by Angela Davis. For real. I am so happy I get to vote for her.
