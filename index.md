@@ -34,7 +34,7 @@ I'm open to changing my mind on any of these! Try to convince me!
 * {:.yep} **Supervisor 3rd District: Wilma Chan** She voted against Urban Shield. Even though she's running unopposed, she deserves a boost for that. There's also a write-in candidate, Leslie Bonett, if you're feeling oppositional.
 * {:.yep} **Assessor: Phong La**
 * {:.yep} **Clerk: Melissa Wilk**
-* {:.nope} **Sheriff: write in anyone** Seriously, Ahern is monster and he's running unopposed. Write in anyone else and remember to fill in the arrow. Write in your mom, or "fuck you". Either works. **at least we got 4452 write-ins, almost 4%**{:.nope}
+* {:.nope} **Sheriff: write in anyone** Seriously, Ahern is monster and he's running unopposed. Write in anyone else and remember to fill in the arrow. Write in your mom, or "fuck you". Either works. **at least we got 4452 write-ins, almost 4%**{:.note}
 
 Also, does anybody want to run for sheriff? Now's a good time.
 

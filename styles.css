@@ -512,7 +512,8 @@ ul {
 
 strong {
   font-weight: bold;
-  color: #333;
+  color: black;
+  font-size: 1.3em;
 }
 
 .wrapper {
@@ -808,16 +809,14 @@ footer {
 }
 
 li.nope {
-    background-color: red;
+    background-color: #ff7777;
 }
 li.yep {
-    background-color: green;
+    background-color: #77ff77;
 }
-li.nope strong.note {
+li strong.note {
     font-style: italic;
-}
-li.yep strong.note {
-    font-style: italic;
+    color: #610061;
 }
 strong.nope {
     color:red;
