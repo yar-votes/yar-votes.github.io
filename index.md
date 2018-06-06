@@ -12,35 +12,35 @@ I'm open to changing my mind on any of these! Try to convince me!
 
 # US
 
-* **Senate: Kevin De Leon** Only the top two vote-getters in this primary will be on the November ballot. #1 will certainly be Feinstein, and the rest are scrambling for #2. Republicans are doing frighteningly well, including an [actual nazi](https://www.snopes.com/fact-check/patrick-little-neo-nazi-california/) who [polled in 2nd place](http://www.surveyusa.com/client/PollReport.aspx?g=e60651f4-03ad-4a80-9b0d-09bc68bbdc74) last month. Some leftists love Harris & Hildebrand, but they're not viable. Yes, De Leon [may have taken bribes](https://patch.com/california/highlandpark-ca/senator-kevin-de-len-named-in-fbi-affidavit-alleging-corruption), and because he takes corporate money and endorsed Clinton two years ago, the Green Party wants you to [WRITE IN](https://acgreens.wordpress.com/voter-guides/) some rando with no campaign - this makes me so angry! Even the [SF Berniecrats](http://www.sfberniecrats.com/june_2018_endorsements) have gotten over it and picked De Leon. If you want to actually replace Feinstein with someone better, and you don't want to spend all summer dealing with california nazis, please please please hold your nose and vote for De Leon!
-* **Assembly District 13: write in Laura Wells** I don't usually like write-ins. Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
+* {:.yep} **Senate: Kevin De Leon** Only the top two vote-getters in this primary will be on the November ballot. #1 will certainly be Feinstein, and the rest are scrambling for #2. Republicans are doing frighteningly well, including an [actual nazi](https://www.snopes.com/fact-check/patrick-little-neo-nazi-california/) who [polled in 2nd place](http://www.surveyusa.com/client/PollReport.aspx?g=e60651f4-03ad-4a80-9b0d-09bc68bbdc74) last month. Some leftists love Harris & Hildebrand, but they're not viable. Yes, De Leon [may have taken bribes](https://patch.com/california/highlandpark-ca/senator-kevin-de-len-named-in-fbi-affidavit-alleging-corruption), and because he takes corporate money and endorsed Clinton two years ago, the Green Party wants you to [WRITE IN](https://acgreens.wordpress.com/voter-guides/) some rando with no campaign - this makes me so angry! Even the [SF Berniecrats](http://www.sfberniecrats.com/june_2018_endorsements) have gotten over it and picked De Leon. If you want to actually replace Feinstein with someone better, and you don't want to spend all summer dealing with california nazis, please please please hold your nose and vote for De Leon! **Feinstein & De Leon will be on ballot**{:.note}
+* {:.yep} **Assembly District 13: write in Laura Wells** I don't usually like write-ins. Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable. **Waiting on full vote count**{:.note}
 
 # California
 
-* **Governor: Delaine Eastin** Newsom loves gays as long as you're not homeless. Villaraigosa is part of the corporate party machine. There's no right-wing mega-evils in this race, only Democrat kilo-evils. Eastin is a great, safe vote for leftists and liberals alike.
-* **Lt Gov: Gayle McLaughlin**
-* **Sec of State: Alex Padilla** Tough call. I like Rydberg but Padilla is the safer bet. Republicans are polling well, this race is too close to spoil.
-* **Controller: Betty Yee** Again, Finley is better but Yee is safer.
-* **Treasurer: Kevin Akin**
-* **Atty General: Dave Jones** I wanted to like Becerra but he's wishywashy on the death penalty
-* **Insurance Commissioner: Nathalie Hrizi** Poizner sucks and Lara is safest bet, but Hrizi is worth the risk here IMO. If you're feeling super nervous vote Lara I guess.
+* {:.nope} **Governor: Delaine Eastin** Newsom loves gays as long as you're not homeless. Villaraigosa is part of the corporate party machine. There's no right-wing mega-evils in this race, only Democrat kilo-evils. Eastin is a great, safe vote for leftists and liberals alike. **Newsom & Cox will be on ballot**{:.note}
+* {:.nope} **Lt Gov: Gayle McLaughlin** **Kounalakis won, McLaughlin got 3.6%**{:.note}
+* {:.yep} **Sec of State: Alex Padilla** Tough call. I like Rydberg but Padilla is the safer bet. Republicans are polling well, this race is too close to spoil.
+* {:.yep} **Controller: Betty Yee** Again, Finley is better but Yee is safer.
+* {:.yep} **Treasurer: Kevin Akin**
+* {:.nope} **Atty General: Dave Jones** I wanted to like Becerra but he's wishywashy on the death penalty **Becerra & Bailey will be on ballot**{:.note}
+* {:.nope} **Insurance Commissioner: Nathalie Hrizi** Poizner sucks and Lara is safest bet, but Hrizi is worth the risk here IMO. If you're feeling super nervous vote Lara I guess. **Poizner won by 0.7% - sorry for splitting the vote y'all**{:.note}
 * **Board of Equalizations 2: none** No great candidates, position has no power
-* **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
+* {:.nope} **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill. **Tuck won :(**{:.note}
 
 # East Bay / Alameda County / Oakland
 
-* **DA: Pamela Price!!** An actual factual prison abolitionist, endorsed by Angela Davis. For real. I am so happy I get to vote for her.
-* **State Assembly District 18: Rob Bonta** he's not great but Slauson sucks
-* **Supervisor 3rd District: Wilma Chan** She voted against Urban Shield. Even though she's running unopposed, she deserves a boost for that. There's also a write-in candidate, Leslie Bonett, if you're feeling oppositional.
-* **Assessor: Phong La**
-* **Clerk: Melissa Wilk**
-* **Sheriff: write in anyone** Seriously, Ahern is monster and he's running unopposed. Write in anyone else and remember to fill in the arrow. Write in your mom, or "fuck you". Either works.
+* {:.nope} **DA: Pamela Price!!** An actual factual prison abolitionist, endorsed by Angela Davis. For real. I am so happy I get to vote for her. **fuck, O'Malley won 59% :(**{:.note}
+* {:.yep} **State Assembly District 18: Rob Bonta** he's not great but Slauson sucks
+* {:.yep} **Supervisor 3rd District: Wilma Chan** She voted against Urban Shield. Even though she's running unopposed, she deserves a boost for that. There's also a write-in candidate, Leslie Bonett, if you're feeling oppositional.
+* {:.yep} **Assessor: Phong La**
+* {:.yep} **Clerk: Melissa Wilk**
+* {:.nope} **Sheriff: write in anyone** Seriously, Ahern is monster and he's running unopposed. Write in anyone else and remember to fill in the arrow. Write in your mom, or "fuck you". Either works. **at least we got 4452 write-ins, almost 4%**{:.nope}
 
 Also, does anybody want to run for sheriff? Now's a good time.
 
 # the great gay judge debate
 
-**Superior Court Judge #11: Karen Katz** ho boy. this deserves its own section...
+**Superior Court Judge #11: Karen Katz**{:.nope} ho boy. this deserves its own section...
 
 Alameda County Superior Court has [dozens of judges](https://ballotpedia.org/Superior_Court_of_Alameda_County,_California). When they come up for renewal every few years, they usually stay off the ballot, unless someone decides to pick *that judge in particular* and run a campaign against them.
 

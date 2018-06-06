@@ -806,3 +806,20 @@ footer {
   margin-top: -145px;
   visibility: hidden;
 }
+
+li.nope {
+    background-color: red;
+}
+li.yep {
+    background-color: green;
+}
+li.nope strong.note {
+    font-style: italic;
+}
+li.yep strong.note {
+    font-style: italic;
+}
+strong.nope {
+    color:red;
+    font-style: italic;
+}
