@@ -6,9 +6,7 @@ title: Yar's Voting Guide
 
 # intro
 
-I'm open to changing my mind on any of these! Try to convince me!
-
- *Remember to vote on June 5!!!*
+Now with color-coded results
 
 # US
 
@@ -71,3 +69,8 @@ I'll vote for Katz, but the whole thing is a mess IMO.
 * [SF Berniecrats](http://www.sfberniecrats.com/june_2018_endorsements)
 * [SF Tenants Union](https://www.sftu.org/endorsements/)
 * [TechEquity](https://docs.google.com/document/d/1C1wmHZCsl1N4coKHoc7eC6GufZMl6GA8AnupQub14C8/edit)
+
+# official results
+
+* [California](https://vote.sos.ca.gov/)
+* [Alameda County](https://acgov.org/rovresults/235/index.htm)
