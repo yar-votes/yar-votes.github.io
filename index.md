@@ -12,7 +12,7 @@ title: Yar's Voting Guide
 # US
 
 * **Senate: Kevin De Leon** Still a tool, but better than Feinstein
-* **US Rep CA-13: Laura Wells** Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
+* **House Rep: Laura Wells** Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
 
 # California
 
