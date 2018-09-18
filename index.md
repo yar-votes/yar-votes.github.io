@@ -6,7 +6,8 @@ title: Yar's Voting Guide
 
 # intro
 
-Remember to vote on November 6! Stay tuned here for more info.
+* Voter registration deadline: October 22
+* Election day: November 6
 
 # US
 
