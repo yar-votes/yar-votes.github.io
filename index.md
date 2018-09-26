@@ -8,11 +8,12 @@ title: Yar's Voting Guide
 
 * Voter registration deadline: October 22
 * Election day: November 6
+* Send me comments and feedback as a [pull request](https://github.com/yar-votes/yar-votes.github.io/pulls), [github issue](https://github.com/yar-votes/yar-votes.github.io/issues), or email me at [yardenack@gmail.com](mailto:yardenack@gmail.com)
 
 # US
 
 * **Senate: Kevin De Leon** Still a tool, but better than Feinstein
-* **House Rep: Laura Wells** Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
+* **House Rep CA-13: Laura Wells** Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
 
 # California
 
@@ -20,10 +21,12 @@ title: Yar's Voting Guide
 
 # East Bay / Alameda County / Oakland
 
-* **Oakland Mayor: 1) Cat Brooks 2) Pamela Price 3) Saied Karamooz** Ranked choice
+* **CA Assembly District 15: Jovanka Beckles** She was ableist towards Vinay Pimple, and that sucks. But that doesn't make Buffy Wicks any better.
+* **Oakland Mayor: 1) Cat Brooks 2) Pamela Price 3) Saied Karamooz** These Oakland races are ranked choice, so if your #1 choice doesn't win, your vote goes to the #2 choice and so on
 * **Oakland District 2: 1) Nikki Bas** Guillen is an ally of Libby Schaaf and is fucking over sex workers
 * **Oakland District 4: 1) Nayeli Maxson 2) Pamela Harris 3) Sheng Thao**
 * **Oakland District 6: nobody?** Brooks v Whittaker
+* **Measure FF** More money for parks seems good, but they wants to cut down a bunch of trees and spray herbicide, which [concerns](https://defendeastbayforests.wordpress.com/measureff/) [many](https://milliontrees.me/2018/09/08/wildfire-cover-story-is-the-lie-that-binds/) [people](https://www.facebook.com/savetheeastbayhills/)
 
 # other voting guides
 
