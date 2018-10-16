@@ -36,7 +36,7 @@ title: Yar's Voting Guide
   * **Governor: Gavin Newsom** Lesser of two evils
   * **Lt Gov: Ed Hernandez** Most progressives seem to be for Kounalakis, but I'm actually not sure why
   * **Sec of State: Alex Padilla**
-  * *Controller: Betty Yee***
+  * **Controller: Betty Yee**
   * **Treasurer: Fiona Ma** Even though she supported [Josephine](http://www.sfexaminer.com/school-board-candidate-fire-past-transphobic-statements/) [Zhao](https://missionlocal.org/2018/09/josephine-zhao-mayor-breed-scott-wiener-circle-the-wagons-for-embattled-candidate-but-for-how-long/)
   * **Atty Gen: Xavier Becerra**
   * **Insurance Commissioner: Ricardo Lara**
@@ -68,12 +68,12 @@ title: Yar's Voting Guide
 
 # Oakland
 
-These races are ranked choice, so if your #1 choice doesn't win, your vote goes to the #2 choice and so on. Beware that putting someone as your #3 is **STILL VOTING FOR THEM**! If you don't like someone, it's better to have no #3 than to rank them in.
+These races are ranked choice, so if your #1 choice doesn't win, your vote goes to the #2 choice and so on. Beware that putting someone as your #3 is *STILL VOTING FOR THEM*! If you don't like someone, it's better to have no #3 than to rank them in.
 
 * **Mayor: 1) Cat Brooks 2) Pamela Price 3) Saied Karamooz** 
 * **Auditor:  Courtney Ruby**
 * **City Council**
-  * **District 2: 1) Kenzie Smith 2) Nikki Bas 3) nobody** Kenzie Smith was famously harassed by "BBQ Becky" and deserves our support. Guillen is an ally of Libby Schaaf and is [fucking over sex workers](https://uspros.net/2018/09/11/stop-legislation-in-oakland-that-targets-sex-workers-clients/), so do ***not*** add him as #3
+  * **District 2: 1) Kenzie Smith 2) Nikki Bas 3) nobody** Kenzie Smith was famously harassed by "BBQ Becky" and deserves our support. Guillen is an ally of Libby Schaaf and is [fucking over sex workers](https://uspros.net/2018/09/11/stop-legislation-in-oakland-that-targets-sex-workers-clients/), so do *not* add him as #3
   * **District 4: 1) Pamela Harris 2) Sheng Thao 3) Nayeli Maxson**
   * **District 6: 1) Mya Whitaker 2) Marlo Rodriguez 3) Desley Brooks** I have deep reservations about Brooks, but she's better than Schaaf-aligned challengers Taylor & Middleton, so she gets a #3 rank
 * **Measure V: YES** less taxes for pot stores
@@ -92,7 +92,7 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * [California Democratic Party](https://www.cadem.org/vote/endorsements)
 * [Drake Talk Oakland](https://draketalkoakland.com/2018/08/23/towards-a-new-city-council-in-turbulent-times/)
 * [East Bay Democratic Socialists](https://www.eastbaydsa.org/)
-* East Bay Express [(no updates since June primary)](https://www.eastbayexpress.com/oakland/the-express-2018-june-endorsements/Content?oid=16110772)
+* East Bay Express [(no endorsements since June primary)](https://www.eastbayexpress.com/oakland/the-express-2018-june-endorsements/Content?oid=16110772)
 * [East Bay Young Democrats](https://www.ebyd.org/endorsements/)
 * [League of Conservation Voters](http://www.ecovote.org/page/endorsements)
 * [League of Pissed Off Voters](http://www.theleaguesf.org/voter_guides)
