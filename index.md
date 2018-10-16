@@ -6,7 +6,7 @@ title: Yar's Voting Guide
 
 # intro
 
-* Early voting has already [already started](https://www.acvote.org/erl)!
+* Early voting has [already started](https://www.acvote.org/erl)!
 * Voter registration deadline: Monday, October 22
 * Election day: Tuesday, November 6
 * Send me comments and feedback as a [pull request](https://github.com/yar-votes/yar-votes.github.io/pulls), [github issue](https://github.com/yar-votes/yar-votes.github.io/issues), or email me at [yardenack@gmail.com](mailto:yardenack@gmail.com)
@@ -19,29 +19,29 @@ title: Yar's Voting Guide
 # California
 
 * **State Assembly**
-** **District 15: Jovanka Beckles** She was ableist towards Vinay Pimple, and that sucks. But that doesn't make Buffy Wicks any better.
-** **District 18: Rob Bonta** Not great but Slauson sucks
+  * **District 15: Jovanka Beckles** She was ableist towards Vinay Pimple, and that sucks. But that doesn't make Buffy Wicks any better.
+  * **District 18: Rob Bonta** Not great but Slauson sucks
 * **State Supreme Court**
-** **Carol Corrigan: NO** A lesbian who wrote a dissent against gay marriage? I can't even with this shit
-** **Leondra Kruger: YES**
-** **James Humes: YES**
-** **Sandra Margulies: NO**
-** **James Richman: NO**
-** **Marla Miller: NO**
-** **Peter John Siggins: YES**
-** **Alison Tucher: YES**
-** **Jon Streeter: YES**
-** **Barbara Jones: YES**
+  * **Carol Corrigan: NO** A lesbian who wrote a dissent against gay marriage? I can't even with this shit
+  * **Leondra Kruger: YES**
+  * **James Humes: YES**
+  * **Sandra Margulies: NO**
+  * **James Richman: NO**
+  * **Marla Miller: NO**
+  * **Peter John Siggins: YES**
+  * **Alison Tucher: YES**
+  * **Jon Streeter: YES**
+  * **Barbara Jones: YES**
 * **State Executives**
-** **Governor: Gavin Newsom** Lesser of two evils
-** **Lt Gov: Ed Hernandez** Most progressives seem to be for Kounalakis, but I'm actually not sure why
-** **Sec of State: Alex Padilla**
-** *Controller: Betty Yee***
-** **Treasurer: Fiona Ma** Even though she supported [Josephine](http://www.sfexaminer.com/school-board-candidate-fire-past-transphobic-statements/) [Zhao](https://missionlocal.org/2018/09/josephine-zhao-mayor-breed-scott-wiener-circle-the-wagons-for-embattled-candidate-but-for-how-long/)
-** **Atty Gen: Xavier Becerra**
-** **Insurance Commissioner: Ricardo Lara**
-** **Board of Eq 2: Malia Cohen**
-** **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
+  * **Governor: Gavin Newsom** Lesser of two evils
+  * **Lt Gov: Ed Hernandez** Most progressives seem to be for Kounalakis, but I'm actually not sure why
+  * **Sec of State: Alex Padilla**
+  * *Controller: Betty Yee***
+  * **Treasurer: Fiona Ma** Even though she supported [Josephine](http://www.sfexaminer.com/school-board-candidate-fire-past-transphobic-statements/) [Zhao](https://missionlocal.org/2018/09/josephine-zhao-mayor-breed-scott-wiener-circle-the-wagons-for-embattled-candidate-but-for-how-long/)
+  * **Atty Gen: Xavier Becerra**
+  * **Insurance Commissioner: Ricardo Lara**
+  * **Board of Eq 2: Malia Cohen**
+  * **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
 * **Prop 1: YES** housing for veterans
 * **Prop 2: idk** Not sure if this represents an ideological divide between "direct services" and "Housing First" for neuroatypical people facing homelessness, or if it's a wasteful developer handout as [NAMI Contra Costa](www.namicontracosta.org/wp-content/uploads/2018/08/August_2018.pdf) argues. I need to learn more.
 * **Prop 3: NO** corporate handout, may lead to more dams
@@ -60,8 +60,8 @@ title: Yar's Voting Guide
 * **AC Transit Director: Dollene Jones**
 * **BART District 4: Robert Raburn**
 * **Peralta Trustees**
-** **Area 3: Corean Todd**
-** **Area 5: Cindi Reiss**
+  * **Area 3: Corean Todd**
+  * **Area 5: Cindi Reiss**
 * **Measure E: YES** $$ for colleges
 * **Measure G: YES** $$ for colleges
 * **Measure FF: NO** Money for parks is good, but they wants to cut down a bunch of trees and spray herbicide, which [concerns](https://defendeastbayforests.wordpress.com/measureff/) [many](https://milliontrees.me/2018/09/08/wildfire-cover-story-is-the-lie-that-binds/) [people](https://www.facebook.com/savetheeastbayhills/) ... they don't need this money until 2021, so let's force them to come back with a better proposal next year
@@ -73,9 +73,9 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * **Mayor: 1) Cat Brooks 2) Pamela Price 3) Saied Karamooz** 
 * **Auditor:  Courtney Ruby**
 * **City Council**
-** **District 2: 1) Kenzie Smith 2) Nikki Bas 3) nobody** Kenzie Smith was famously harassed by "BBQ Becky" and deserves our support. Guillen is an ally of Libby Schaaf and is [fucking over sex workers](https://uspros.net/2018/09/11/stop-legislation-in-oakland-that-targets-sex-workers-clients/), so do ***not*** add him as #3
-** **District 4: 1) Pamela Harris 2) Sheng Thao 3) Nayeli Maxson**
-** **District 6: 1) Mya Whitaker 2) Marlo Rodriguez 3) Desley Brooks** I have deep reservations about Brooks, but she's better than Schaaf-aligned challengers Taylor & Middleton, so she gets a #3 rank
+  * **District 2: 1) Kenzie Smith 2) Nikki Bas 3) nobody** Kenzie Smith was famously harassed by "BBQ Becky" and deserves our support. Guillen is an ally of Libby Schaaf and is [fucking over sex workers](https://uspros.net/2018/09/11/stop-legislation-in-oakland-that-targets-sex-workers-clients/), so do ***not*** add him as #3
+  * **District 4: 1) Pamela Harris 2) Sheng Thao 3) Nayeli Maxson**
+  * **District 6: 1) Mya Whitaker 2) Marlo Rodriguez 3) Desley Brooks** I have deep reservations about Brooks, but she's better than Schaaf-aligned challengers Taylor & Middleton, so she gets a #3 rank
 * **Measure V: YES** less taxes for pot stores
 * **Measure W: YES** tax vacant land
 * **Measure X: YES** tax luxury housing
