@@ -14,7 +14,7 @@ title: Yar's Voting Guide
 # US
 
 * **Senate: Kevin De Leon** Still a tool, but better than Feinstein
-* **House Rep CA-13: Laura Wells** Barbara Lee is running unopposed, she is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
+* **House Rep CA-13: Laura Wells** Barbara Lee is honestly a great rep compared to most of Congress, and she is going to win. This is a good, safe chance to pressure her from the left and keep her more accountable.
 
 # California
 
@@ -43,7 +43,7 @@ title: Yar's Voting Guide
   * **Board of Eq 2: Malia Cohen**
   * **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
 * **Prop 1: YES** housing for veterans
-* **Prop 2: idk** Not sure if this represents an ideological divide between "direct services" and "Housing First" for neuroatypical people facing homelessness, or if it's a wasteful developer handout as [NAMI Contra Costa](www.namicontracosta.org/wp-content/uploads/2018/08/August_2018.pdf) argues. I need to learn more.
+* **Prop 2: NO** This is a tough one, but I'll honor [NAMI Contra Costa](http://www.namicontracosta.org/)'s call to vote no, based on [their reasoning](http://www.namicontracosta.org/wp-content/uploads/2018/09/September_2018.pdf): voters approved the [MHSA](https://en.wikipedia.org/wiki/California_Mental_Health_Services_Act) as [Prop 63 on the 2004 ballot](https://en.wikipedia.org/wiki/California_Proposition_63_(2004)) to fund direct services for "seriously mentally ill" people, which enables places like NAMICC to exist. Our state reps tried to redirect that money towards developers using the "Housing First" ideology as cover. They got sued and lost their court case, because this wasn't the original intent of MHSA! So now they're trying to trick voters into undoing our 2004 vote with this new Proposition. It doesn't create *new* funding for disabled people, it only repurposes *existing* money, and quite wastefully too: $6 billion to house 20,000 people would be better spent just handing them $300,000 each. But of course most of that money will go to contractors and bondholders, which is the real motivation here.
 * **Prop 3: NO** corporate handout, may lead to more dams
 * **Prop 4: NO** $$ for childrens hospitals sounds good, but many of these are for-profit and should not be subsidized. come back with a proposal limited to public (university) hospitals or give the money directly to kids and their families who need it
 * **Prop 5: NO** cutting school funds to bribe overhoused people into moving, is not a real solution to the housing crisis
