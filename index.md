@@ -103,6 +103,7 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * [SF Berniecrats](http://www.sfberniecrats.com/november_2018_endorsements)
 * [SF Tenants Union](https://www.sftu.org/endorsements/)
 * [TechEquity](https://techequitycollaborative.org/wp-content/uploads/2018/10/TechEquity-Voter-Guide-Election-2018.pdf)
+* [Tim Chevalier](https://tim.dreamwidth.org/2051420.html)
 * [Wellstone Club](http://wellstoneclub.org/current-endorsements/)
 
 # official results
