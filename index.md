@@ -74,7 +74,7 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * **Auditor:  Courtney Ruby**
 * **City Council**
   * **District 2: 1) Kenzie Smith 2) Nikki Bas 3) nobody** Kenzie Smith was famously harassed by "BBQ Becky" and deserves our support. Guillen is an ally of Libby Schaaf and is [fucking over sex workers](https://uspros.net/2018/09/11/stop-legislation-in-oakland-that-targets-sex-workers-clients/), so do *not* add him as #3
-  * **District 4: 1) Pamela Harris 2) Sheng Thao 3) Nayeli Maxson**
+  * **District 4: 1) Sheng Thao 2) Nayeli Maxson 3) Pamela Harris**
   * **District 6: 1) Mya Whitaker 2) Marlo Rodriguez 3) Desley Brooks** I have deep reservations about Brooks, but she's better than Schaaf-aligned challengers Taylor & Middleton, so she gets a #3 rank
 * **Measure V: YES** less taxes for pot stores
 * **Measure W: YES** tax vacant land
@@ -93,6 +93,7 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * [Drake Talk Oakland](https://draketalkoakland.com/2018/08/23/towards-a-new-city-council-in-turbulent-times/)
 * [East Bay Democratic Socialists](https://www.eastbaydsa.org/)
 * [East Bay Express](https://www.eastbayexpress.com/oakland/our-november-2018-endorsement-guide/Content?oid=21443046&showFullText=true)
+* [East Bay Stonewall Democrats](http://eastbaystonewalldemocrats.org/)
 * [East Bay Young Democrats](https://www.ebyd.org/endorsements/)
 * [League of Conservation Voters](http://www.ecovote.org/page/endorsements)
 * [League of Pissed Off Voters](http://www.theleaguesf.org/voter_guides)
@@ -102,6 +103,7 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * [Progressive California](http://politics.voxpublica.org/)
 * [SF Berniecrats](http://www.sfberniecrats.com/november_2018_endorsements)
 * [SF Tenants Union](https://www.sftu.org/endorsements/)
+* [Stardust Doherty](http://stardustdoherty.org/wordpress/?p=9471)
 * [TechEquity](https://techequitycollaborative.org/wp-content/uploads/2018/10/TechEquity-Voter-Guide-Election-2018.pdf)
 * [Tim Chevalier](https://tim.dreamwidth.org/2051420.html)
 * [Wellstone Club](http://wellstoneclub.org/current-endorsements/)
