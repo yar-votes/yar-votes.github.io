@@ -22,7 +22,7 @@ title: Yar's Voting Guide
   * **District 15: Jovanka Beckles** She was ableist towards Vinay Pimple, and that sucks. But that doesn't make Buffy Wicks any better.
   * **District 18: Rob Bonta** Not great but Slauson sucks
 * **State Supreme Court**
-  * **Carol Corrigan: NO** A lesbian who wrote a dissent against gay marriage? I can't even with this shit
+  * **Carol Corrigan: no recommendation** A lesbian who wrote a dissent against gay marriage which still passed in a 7-2 decision. Is she actually that self-hating, or did she just provide cover and legitimacy to the court by writing that toothless dissent which didn't effect the outcome, and which in the long run provides a good counter-example to those people who want to claim gay judges have a [conflict of interest](https://en.wikipedia.org/wiki/Vaughn_Walker)? I can't even with this shit, and I'm throwing my hands up. Vote however you want.
   * **Leondra Kruger: YES**
   * **James Humes: YES**
   * **Sandra Margulies: NO**
