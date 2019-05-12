@@ -44,7 +44,7 @@ title: Yar's Voting Guide
   * **Supe of Public Instruction: Tony Thurmond** Tuck is a charter school shill.
 * **Prop 1: YES** housing for veterans
 * **Prop 2: NO** This is a tough one, but I'll honor [NAMI Contra Costa](http://www.namicontracosta.org/)'s call to vote no, based on [their reasoning](http://www.namicontracosta.org/wp-content/uploads/2018/09/September_2018.pdf): voters approved the [MHSA](https://en.wikipedia.org/wiki/California_Mental_Health_Services_Act) as [Prop 63 on the 2004 ballot](https://en.wikipedia.org/wiki/California_Proposition_63_(2004)) to fund direct services for "seriously mentally ill" people, which enables places like NAMICC to exist. Our state reps tried to redirect that money towards developers using the [Housing First](https://en.wikipedia.org/wiki/Housing_First) ideology as cover. They got sued and lost their court case, because this wasn't the original intent of MHSA! So now they're trying to trick voters into undoing our 2004 vote with this new Proposition. It doesn't create *new* funding for disabled people, it only repurposes *existing* money, and quite wastefully too: $6 billion to house 20,000 people would be better spent just handing them $300,000 each. But of course most of that money will go to contractors and bondholders, which is the real motivation here.
-* **Prop 3: NO** corporate handout, may lead to more dams
+* **Prop 3: NO** corporate handout, may lead to more dams. here's an [interesting analysis](https://www.newsdeeply.com/water/community/2018/10/29/untangling-the-complexities-of-californias-proposition-3-water-bond)
 * **Prop 4: NO** $$ for childrens hospitals sounds good, but many of these are for-profit and should not be subsidized. come back with a proposal limited to public (university) hospitals or give the money directly to kids and their families who need it
 * **Prop 5: NO** cutting school funds to bribe overhoused people into moving, is not a real solution to the housing crisis
 * **Prop 6: NO** Don't let them repeal the gas tax. It should be more progressive, but meanwhile it funds public transit
@@ -108,9 +108,15 @@ These races are ranked choice, so if your #1 choice doesn't win, your vote goes 
 * [Stardust Doherty](http://stardustdoherty.org/wordpress/?p=9471)
 * [TechEquity](https://techequitycollaborative.org/wp-content/uploads/2018/10/TechEquity-Voter-Guide-Election-2018.pdf)
 * [Tim Chevalier](https://tim.dreamwidth.org/2051420.html)
+* [Urban Habitat](https://urbanhabitat.org/urban-habitats-fall-2018-voter-guide)
 * [Wellstone Club](http://wellstoneclub.org/current-endorsements/)
 
 # official results
 
 * [California](https://vote.sos.ca.gov/)
 * [Alameda County](https://acgov.org/rovresults/235/index.htm)
+
+# upcoming elections
+
+* [California](https://www.sos.ca.gov/elections/upcoming-elections/)
+* [Alameda County](https://www.acvote.org/election-information/elections)
