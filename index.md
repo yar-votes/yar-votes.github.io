@@ -4,19 +4,12 @@ content_type: md
 title: Yar's Voting Guide
 ---
 
-* Voter registration deadline: Monday, February 17, 2020
-* Election day: Tuesday, March 3, 2020
-* Send me comments and feedback as a [pull request](https://github.com/yar-votes/yar-votes.github.io/pulls), [github issue](https://github.com/yar-votes/yar-votes.github.io/issues), or email me at [yardenack@gmail.com](mailto:yardenack@gmail.com)
-
-# US President
-
-Since the first debate is in a few weeks, it's getting very unlikely we'll see any more new candidates. I'll almost certainly be voting for one of these people, but I don't know who yet:
-* [Democratic candidates](https://en.wikipedia.org/wiki/2020_Democratic_Party_presidential_primaries#Candidates)
-
-Debate & Primary schedule:
-* First debate: Wednesday June 26, 2019 (soon!)
+Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020_California_Democratic_primary) on Super Tuesday, March 3, 2020. I will probably vote for *Liz Warren*.
 
 None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Party_presidential_primaries#Candidates) has enough experience to be viable. I have supported Greens for president in the past, and I'm even sympathetic to their need to maintain numbers (which help them access coverage, debates, ballot status and federal funding) but I cannot endorse any of them this round, given the urgency of defeating Trump, and because I strongly believe that the Green Party should focus more resources on supporting state & local candidates who could ***eventually*** have enough experience to run for President.
+
+* Voter registration deadline: Monday, February 17, 2020
+* Election day: Tuesday, March 3, 2020
 
 # other voting guides
 
@@ -55,3 +48,5 @@ None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Pa
 
 * [California](https://www.sos.ca.gov/elections/upcoming-elections/)
 * [Alameda County](https://www.acvote.org/election-information/elections)
+
+Send me comments and feedback as a [pull request](https://github.com/yar-votes/yar-votes.github.io/pulls), [github issue](https://github.com/yar-votes/yar-votes.github.io/issues), or email me at [yardenack@gmail.com](mailto:yardenack@gmail.com)
