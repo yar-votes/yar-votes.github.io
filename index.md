@@ -8,8 +8,44 @@ Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020
 
 None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Party_presidential_primaries#Candidates) has enough experience to be viable. I have supported Greens for president in the past, and I'm even sympathetic to their need to maintain numbers (which help them access coverage, debates, ballot status and federal funding) but I cannot endorse any of them this round, given the urgency of defeating Trump, and because I strongly believe that the Green Party should focus more resources on supporting state & local candidates who could eventually have enough experience to run for President.
 
-* Voter registration deadline: Monday, February 17, 2020
-* Election day: Tuesday, March 3, 2020
+Here's a rough calendar of the next 8 months:
+
+| S | M | T | W | T | F | S |
+|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   | Jul 30: debate 2a | Jul 31: debate 2b |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | Sep 12: debate 3a  | Sep 13: debate 3b |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | halloween |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | thanksgiving |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   | xmas |   |   |   |
+|   |   |   | Jan 1, 2020 |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   | Feb 3: Iowa Caucus  |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   | Feb 17: registration deadline |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   | Mar 3: vote |   |   |   |   |
 
 # other voting guides
 
