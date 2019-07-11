@@ -822,6 +822,6 @@ strong.nope {
     color:red;
     font-style: italic;
 }
-td.strong {
+td strong {
     color: #eae6d1;
 }
