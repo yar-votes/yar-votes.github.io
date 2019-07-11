@@ -12,11 +12,11 @@ Here's a rough calendar:
 
 | S | M | T | W | T | F | S |
 |---|---|---|---|---|---|---|
-|   | {:.mo} jul |   |   |   |   |   |
+|   | **jul** |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | debate 2a | debate 2b | {:.mo} aug |   |   |
+|   |   | debate 2a | debate 2b | **aug** |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -25,71 +25,71 @@ Here's a rough calendar:
 |   |   |   |   | debate 3a  | debate 3b |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | {:.mo} oct |   |   |   |   |
+|   |   | **oct** |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | halloween | {:.mo} nov |   |
+|   |   |   |   | halloween | **nov** |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   | thanksgiving |   |   |
-| {:.mo} dec |   |   |   |   |   |   |
+| **dec** |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   | xmas |   |   |   |
-|   |   |   | {:.mo} jan 2020 |   |   |   |
+|   |   |   | **jan 2020** |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   | {:.mo} feb |
+|   |   |   |   |   |   | **feb** |
 |   | IA |   |   |   |   |   |
 |   |   | NH |   |   |   |   |
 |   | registration deadline |   |   |   |   | NV |
 |   |   |   |   |   |   | SC |
-| {:.mo} mar |   | AL AR CA CO ME MA MN NC OK TE TX UT VT VA  |   |   |   |   |
+| **mar** |   | AL AR CA CO ME MA MN NC OK TE TX UT VT VA  |   |   |   |   |
 |   |   | ID MI MS MO ND OH WA |   |   |   |   |
 |   |   | AZ FL IL |   |   |   |   |
 |   |   | GA |   |   |   |   |
-| PR |   |   | {:.mo} apr |   |   | AK HI LA |
+| PR |   |   | **apr** |   |   | AK HI LA |
 |   |   | WI |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | CN DE MD NY PA RI |   |   | {:.mo} may | KS |
+|   |   | CN DE MD NY PA RI |   |   | **may** | KS |
 |   |   | IN |   |   |   |   |
 |   |   | NE WV |   |   |   |   |
 |   |   | KY OR |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   | {:.mo} jun | MT NJ NM SD |   |   |   |   |
+|   | **jun** | MT NJ NM SD |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   | DC |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   | {:.mo} jul |   |   |   |
+|   |   |   | **jul** |   |   |   |
 |   | dem convention  | ... | ... | ... |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   | {:.mo} aug |
+|   |   |   |   |   |   | **aug** |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   | repub convention | ... | ... | ... |   |   |
-|   |   | {:.mo} sep |   |   |   |   |
+|   |   | **sep** |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | {:.mo} oct |   |   |
+|   |   |   |   | **oct** |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   | halloween |
-| {:.mo} nov |   | election |   |   |   |   |
+| **nov** |   | election |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   | thanksgiving |   |   |
-|   |   | {:.mo} tue |   |   |   |   |
+|   |   | **tue** |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   | electoral college vote |   |   |   |   |   |
 |   |   |   |   |   | xmas |   |
-|   |   |   |   |   | {:.mo} jan 2021 |   |
+|   |   |   |   |   | **jan 2021** |   |
 | new congress |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   | inauguration |   |   |
