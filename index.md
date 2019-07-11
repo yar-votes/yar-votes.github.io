@@ -21,7 +21,7 @@ Here's a rough calendar:
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-| {:.mo sep} |   |   |   |   |   |   |
+| **sep** |   |   |   |   |   |   |
 |   |   |   |   | debate 3a  | debate 3b |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
