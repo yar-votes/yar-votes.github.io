@@ -6,89 +6,90 @@ title: Yar's Voting Guide
 
 Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020_California_Democratic_primary) on Super Tuesday, March 3, 2020. I will probably vote for **Liz Warren**.
 
-None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Party_presidential_primaries#Candidates) has enough experience to be viable. I have supported Greens for president in the past, and I'm even sympathetic to their need to maintain numbers (which help them access coverage, debates, ballot status and federal funding) but I cannot endorse any of them this round, given the urgency of defeating Trump, and because I strongly believe that the Green Party should focus more resources on supporting state & local candidates who could eventually have enough experience to run for President.
+None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Party_presidential_primaries#Candidates) has enough experience. I have supported Greens for president in the past, and I'm even sympathetic to their need to maintain numbers (which help them access coverage, debates, ballot status and federal funding) but I cannot endorse any of them this round, given the urgency of defeating Trump, and because I strongly believe that the Green Party should focus more resources on supporting state & local candidates who could eventually have enough experience to run for President.
 
 Here's a rough calendar:
 
 | S | M | T | W | T | F | S |
 |---|---|---|---|---|---|---|
+|   | {:.mo} jul |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-| 7/28 |   | debate 2a | debate 2b |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-| 9/8 |   |   |   | debate 3a  | debate 3b |   |
+|   |   | debate 2a | debate 2b | {:.mo} aug |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
+| {:.mo sep} |   |   |   |   |   |   |
+|   |   |   |   | debate 3a  | debate 3b |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | halloween |   |   |
+|   |   | {:.mo} oct |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | halloween | {:.mo} nov |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   | thanksgiving |   |   |
-|   |   |   |   |   |   |   |
+| {:.mo} dec |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   | xmas |   |   |   |
-|   |   |   | ny |   |   |   |
+|   |   |   | {:.mo} jan 2020 |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+|   |   |   |   |   |   | {:.mo} feb |
 |   | IA |   |   |   |   |   |
 |   |   | NH |   |   |   |   |
-| 2/16 | registration deadline |   |   |   |   | NV |
+|   | registration deadline |   |   |   |   | NV |
 |   |   |   |   |   |   | SC |
-| 3/1 |   | AL AR CA CO ME MA MN NC OK TE TX UT VT VA  |   |   |   |   |
+| {:.mo} mar |   | AL AR CA CO ME MA MN NC OK TE TX UT VT VA  |   |   |   |   |
 |   |   | ID MI MS MO ND OH WA |   |   |   |   |
 |   |   | AZ FL IL |   |   |   |   |
 |   |   | GA |   |   |   |   |
-| PR |   |   |   |   |   | AK HI LA |
+| PR |   |   | {:.mo} apr |   |   | AK HI LA |
 |   |   | WI |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | CN DE MD NY PA RI |   |   |   | KS |
+|   |   | CN DE MD NY PA RI |   |   | {:.mo} may | KS |
 |   |   | IN |   |   |   |   |
 |   |   | NE WV |   |   |   |   |
 |   |   | KY OR |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | MT NJ NM SD |   |   |   |   |
+|   | {:.mo} jun | MT NJ NM SD |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   | DC |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-| 7/5 | dem convention  | ... | ... | ... |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+|   |   |   | {:.mo} jul |   |   |   |
+|   | dem convention  | ... | ... | ... |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-| 8/23 | repub convention | ... | ... | ... |   |   |
+|   |   |   |   |   |   | {:.mo} aug |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
+|   | repub convention | ... | ... | ... |   |   |
+|   |   | {:.mo} sep |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | {:.mo} oct |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   | halloween |
-|   |   | election |   |   |   |   |
+| {:.mo} nov |   | election |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   | thanksgiving |   |   |
-|   |   |   |   |   |   |   |
+|   |   | {:.mo} tue |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   | electoral college vote |   |   |   |   |   |
 |   |   |   |   |   | xmas |   |
-|   |   |   |   |   | ny |   |
+|   |   |   |   |   | {:.mo} jan 2021 |   |
 | new congress |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   | inauguration |   |   |
