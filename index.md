@@ -8,20 +8,20 @@ Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020
 
 None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Party_presidential_primaries#Candidates) has enough experience to be viable. I have supported Greens for president in the past, and I'm even sympathetic to their need to maintain numbers (which help them access coverage, debates, ballot status and federal funding) but I cannot endorse any of them this round, given the urgency of defeating Trump, and because I strongly believe that the Green Party should focus more resources on supporting state & local candidates who could eventually have enough experience to run for President.
 
-Here's a rough calendar of the next 8 months:
+Here's a rough calendar:
 
 | S | M | T | W | T | F | S |
 |---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | Jul 30: debate 2a | Jul 31: debate 2b |   |   |   |
+| 7/28 |   | debate 2a | debate 2b |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | Sep 12: debate 3a  | Sep 13: debate 3b |   |
+| 9/8 |   |   |   | debate 3a  | debate 3b |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -37,15 +37,61 @@ Here's a rough calendar of the next 8 months:
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   | xmas |   |   |   |
-|   |   |   | Jan 1, 2020 |   |   |   |
+|   |   |   | ny |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   | Feb 3: Iowa Caucus  |   |   |   |   |   |
+|   | IA |   |   |   |   |   |
+|   |   | NH |   |   |   |   |
+| 2/16 | registration deadline |   |   |   |   | NV |
+|   |   |   |   |   |   | SC |
+| 3/1 |   | AL AR CA CO ME MA MN NC OK TE TX UT VT VA  |   |   |   |   |
+|   |   | ID MI MS MO ND OH WA |   |   |   |   |
+|   |   | AZ FL IL |   |   |   |   |
+|   |   | GA |   |   |   |   |
+| PR |   |   |   |   |   | AK HI LA |
+|   |   | WI |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   | Feb 17: registration deadline |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   | Mar 3: vote |   |   |   |   |
+|   |   | CN DE MD NY PA RI |   |   |   | KS |
+|   |   | IN |   |   |   |   |
+|   |   | NE WV |   |   |   |   |
+|   |   | KY OR |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   | MT NJ NM SD |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   | DC |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+| 7/5 | dem convention  | ... | ... | ... |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+| 8/23 | repub convention | ... | ... | ... |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   | halloween |
+|   |   | election |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | thanksgiving |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   | electoral college vote |   |   |   |   |   |
+|   |   |   |   |   | xmas |   |
+|   |   |   |   |   | ny |   |
+| new congress |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   | inauguration |   |   |
 
 # other voting guides
 
