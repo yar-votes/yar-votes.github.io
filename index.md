@@ -29,15 +29,15 @@ Here's a rough calendar:
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | halloween | **nov** |   |
+|   |   |   |   |   | **nov** |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | thanksgiving |   |   |
+|   |   |   |   | **thanksgiving** |   |   |
 | **dec** |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   | xmas |   |   |   |
+|   |   |   | **xmas** |   |   |   |
 |   |   |   | **jan 2020** |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -80,15 +80,15 @@ Here's a rough calendar:
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   | halloween |
+|   |   |   |   |   |   |   |
 | **nov** |   | election |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
-|   |   |   |   | thanksgiving |   |   |
-|   |   | **tue** |   |   |   |   |
+|   |   |   |   | **thanksgiving** |   |   |
+|   |   | **dec** |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   | electoral college vote |   |   |   |   |   |
-|   |   |   |   |   | xmas |   |
+|   |   |   |   |   | **xmas** |   |
 |   |   |   |   |   | **jan 2021** |   |
 | new congress |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
