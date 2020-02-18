@@ -13,6 +13,7 @@ Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020
 
 # other voting guides
 
+{:.wrapped-list}
 * [Alameda County Green Party](https://acgreens.wordpress.com/voter-guides/)
 * [Alameda Labor Council](http://alamedalabor.org/2018/08/09/new-endorsements-for-the-alc/)
 * [Bay Area Reporter](https://www.ebar.com/news/news//266598/bay_area_reporter_election_endorsements)

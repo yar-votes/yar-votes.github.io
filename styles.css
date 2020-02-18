@@ -825,3 +825,6 @@ strong.nope {
 td strong {
     color: #eae6d1;
 }
+ul.wrapped-list {
+    column-count: 2;
+}
