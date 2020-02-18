@@ -9,8 +9,6 @@ Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020
 * **President**: I will probably vote for **Liz Warren**.
 * **Prop 13**: yes (this is for school bonds, not [that other thing](https://en.wikipedia.org/wiki/1978_California_Proposition_13))
 
-# elsewhere
-
 * If you're in [CA's 63rd](https://en.wikipedia.org/wiki/California%27s_63rd_State_Assembly_district) (LA) please help vote out [Anthony Rendon](https://en.wikipedia.org/wiki/Anthony_Rendon_(politician)), who blocked a debate on universal health care!
 
 # other voting guides
