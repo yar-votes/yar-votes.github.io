@@ -6,8 +6,8 @@ title: Yar's Voting Guide
 
 Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020_California_Democratic_primary) on Super Tuesday, March 3, 2020. How will I vote?
 
-* **President***: I will probably vote for **Liz Warren**.
-* **Prop 13***: yes
+* **President**: I will probably vote for **Liz Warren**.
+* **Prop 13**: yes
 
 # elsewhere
 
