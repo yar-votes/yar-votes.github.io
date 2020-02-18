@@ -4,95 +4,14 @@ content_type: md
 title: Yar's Voting Guide
 ---
 
-Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020_California_Democratic_primary) on Super Tuesday, March 3, 2020. I will probably vote for **Liz Warren**.
+Our next election is the [California Primary](https://en.wikipedia.org/wiki/2020_California_Democratic_primary) on Super Tuesday, March 3, 2020. How will I vote?
 
-None of the [Green Party candidates](https://en.wikipedia.org/wiki/2020_Green_Party_presidential_primaries#Candidates) has enough experience. I have supported Greens for president in the past, and I'm even sympathetic to their need to maintain numbers (which help them access coverage, debates, ballot status and federal funding) but I cannot endorse any of them this round, given the urgency of defeating Trump, and because I strongly believe that the Green Party should focus more resources on supporting state & local candidates who could eventually have enough experience to run for President.
+* '''President''': I will probably vote for **Liz Warren**.
+* '''Prop 13''': yes
 
-Here's a rough calendar:
+# elsewhere
 
-| S | M | T | W | T | F | S |
-|---|---|---|---|---|---|---|
-|   | **jul** |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   | debate 2a | debate 2b | **aug** |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-| **sep** |   |   |   |   |   |   |
-|   |   |   |   | debate 3a  | debate 3b |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   | **oct** |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   | **nov** |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   | **thanksgiving** |   |   |
-| **dec** |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   | **xmas** |   |   |   |
-|   |   |   | **jan 2020** |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   | **feb** |
-|   | IA |   |   |   |   |   |
-|   |   | NH |   |   |   |   |
-|   | registration deadline |   |   |   |   | NV |
-|   |   |   |   |   |   | SC |
-| **mar** |   | AL AR CA CO ME MA MN NC OK TE TX UT VT VA  |   |   |   |   |
-|   |   | ID MI MS MO ND OH WA |   |   |   |   |
-|   |   | AZ FL IL |   |   |   |   |
-|   |   | GA |   |   |   |   |
-| PR |   |   | **apr** |   |   | AK HI LA |
-|   |   | WI |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   | CN DE MD NY PA RI |   |   | **may** | KS |
-|   |   | IN |   |   |   |   |
-|   |   | NE WV |   |   |   |   |
-|   |   | KY OR |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   | **jun** | MT NJ NM SD |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   | DC |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   | **jul** |   |   |   |
-|   | dem convention  | ... | ... | ... |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   | **aug** |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   | repub convention | ... | ... | ... |   |   |
-|   |   | **sep** |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   | **oct** |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-| **nov** |   | election |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   | **thanksgiving** |   |   |
-|   |   | **dec** |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   | electoral college vote |   |   |   |   |   |
-|   |   |   |   |   | **xmas** |   |
-|   |   |   |   |   | **jan 2021** |   |
-| new congress |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   | inauguration |   |   |
+* If you're in [CA's 63rd](https://en.wikipedia.org/wiki/California%27s_63rd_State_Assembly_district) (LA) please help vote out [Anthony Rendon](https://en.wikipedia.org/wiki/Anthony_Rendon_(politician)), who blocked a debate on universal health care!
 
 # other voting guides
 
