@@ -3,14 +3,14 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-   <title>{{ site.title }} &mdash; {{ page.title }}</title>
+   <title>{{ site.title }}</title>
    <link rel="stylesheet" href="/styles.css">
    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
 <body>
    <header>
       <h1><a href="/">{{ site.title }}</a></h1>
-      <p>{{ site.tagline }}</p>
+      <p>{{ page.tagline }}</p>
    </header>
    <div class="wrapper">
       {% if page.content_type && page.content_type != "html" %}

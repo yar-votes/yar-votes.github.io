@@ -1,7 +1,6 @@
 ---
 layout: default
 content_type: md
-title: Yar's Voting Guide
 tagline: Oakland, California, March 2020
 ---
 
