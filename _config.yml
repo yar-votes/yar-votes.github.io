@@ -4,3 +4,5 @@ title: "Yar's Voting Guide"
 repository_url: https://github.com/yardenac/yar-votes.github.io/
 permalink: pretty
 markdown: kramdown
+plugins:
+  - jekyll-redirect-from
