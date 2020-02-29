@@ -2,6 +2,7 @@
 layout: default
 content_type: md
 title: Yar's Voting Guide
+tagline: Oakland, California, March 2020
 ---
 
 Our next election is the California Primary on Super Tuesday, March 3, 2020. I am registered No Party Preference and will request a Democratic ballot at the poll. How will I vote?

@@ -1,7 +1,6 @@
 server: true
 page_title: "Yar's Voting Guide"
 title: "Yar's Voting Guide"
-tagline: Oakland, California, March 2020
 repository_url: https://github.com/yardenac/yar-votes.github.io/
 permalink: pretty
 markdown: kramdown
