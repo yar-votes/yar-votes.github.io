@@ -61,6 +61,7 @@ Elsewhere
 * [Progressive California](http://politics.voxpublica.org/)
 * [SF Bay Guardian](http://www.sfbg.com/2020/02/10/endorsements-for-the-march-3-primary/)
 * [SF Berniecrats](https://sfberniecrats.com/endorsements/march-2020-endorsements/)
+* [SF Public Press](https://sfpublicpress.org/election2020)
 * [SF Rising](https://www.sfrising.org/wp-content/uploads/2019/12/SF-Voter-Guide-c3-Nov-2019-COLOR.pdf)
 * [SF Tenants Union](https://www.sftu.org/endorsements/)
 * [Space Cats](http://spacecats.org/)
