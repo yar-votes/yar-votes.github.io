@@ -59,6 +59,7 @@ Elsewhere
 * [Pete Woiwode](https://docs.google.com/spreadsheets/d/1_LT1q8zJMz2IGx0yxNq1xCD-ISImCt1exY_yCUDXb_g/edit)
 * [Planned Parenthood](https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2020)
 * [Progressive California](http://politics.voxpublica.org/)
+* [Richmond Progressive Alliance](https://www.richmondprogressivealliance.net/rpa_vote_guide_march_3_2019_primary)
 * [SF Bay Guardian](http://www.sfbg.com/2020/02/10/endorsements-for-the-march-3-primary/)
 * [SF Berniecrats](https://sfberniecrats.com/endorsements/march-2020-endorsements/)
 * [SF Public Press](https://sfpublicpress.org/election2020)
