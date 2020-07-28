@@ -79,5 +79,3 @@ Elsewhere
 
 * [California](https://www.sos.ca.gov/elections/upcoming-elections/)
 * [Alameda County](https://www.acvote.org/election-information/elections)
-
-Send me comments and feedback as a [pull request](https://github.com/yar-votes/yar-votes.github.io/pulls), [github issue](https://github.com/yar-votes/yar-votes.github.io/issues), or email me at [yardenack@gmail.com](mailto:yardenack@gmail.com)
