@@ -84,6 +84,7 @@ California
 
 # other voting guides
 
+{:.wrapped-list}
 * [AAPI FORCE-EF](https://aapiforce-ef.vote/wp-content/uploads/2020/10/English-Voter-Guide-2.pdf)
 * [AC Greens](https://acgreens.wordpress.com/voter-guides/)
 * [AC Health Commission](https://acphc.files.wordpress.com/2020/09/acphc-voter_guide_2020.pdf)
