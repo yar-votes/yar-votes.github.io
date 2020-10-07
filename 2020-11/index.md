@@ -89,6 +89,7 @@ tagline: Oakland, California, November 2020
 * **Sonoma County Measure P: YES** Actual cop oversight with teeth. Significant experimental reform that could be a model for the whole country.
 
 # other voting guides
+
 {:.wrapped-list}
 * [AAPI FORCE-EF](https://aapiforce-ef.vote/wp-content/uploads/2020/10/English-Voter-Guide-2.pdf)
 * [AC Greens](https://acgreens.wordpress.com/voter-guides/)
