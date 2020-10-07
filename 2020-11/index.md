@@ -4,7 +4,7 @@ content_type: md
 tagline: Oakland, California, November 2020
 ---
 
-* Early & mail-in voting begins Monday, October 5
+* Ballots are out, early & mail-in voting has begun
 * Last day to request a mail ballot: Tuesday, October 27
 * Ballots must be postmarked by election day: Tuesday, November 3
 * Ballots must be received by Friday, November 6
