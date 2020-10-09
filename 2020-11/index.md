@@ -68,6 +68,7 @@ tagline: Oakland, California, November 2020
 
 {:.wrapped-list}
 * [AAPI FORCE-EF](https://aapiforce-ef.vote/wp-content/uploads/2020/10/English-Voter-Guide-2.pdf)
+* [AC Dems](https://oaklandside.org/2020/08/19/oakland-city-council-candidates-discuss-issues-in-their-districts-virtually/) [(vid)](https://www.facebook.com/acdemocrats/videos/1266703727012996/)
 * [AC Greens](https://acgreens.wordpress.com/voter-guides/)
 * [AC Health Commission](https://acphc.files.wordpress.com/2020/09/acphc-voter_guide_2020.pdf)
 * [ACLU](https://www.aclunc.org/vote)
@@ -106,6 +107,7 @@ tagline: Oakland, California, November 2020
 * [IFPTE Local 21](https://www.ifpte21.org/content/2020-general-election-endorsements)
 * [IM4HI](https://drive.google.com/file/d/1OnV1rtuYxKjiNcLCMschWWLK_Nixg6yx/view)
 * [Indivisible SF](https://indivisiblesf.org/nov-2020-california-ballot-propositions)
+* [International Forum w/Marcie Hodge](https://www.facebook.com/tumbletweetmedia/videos/834040027128850)
 * [John George Democratic Club](http://jgdc.org/)
 * [Justice LA](https://justicelanow.org/wp-content/uploads/2017/08/Coalition-Voting-Guide-2020-9-21.pdf)
 * [Kehilla](https://docs.google.com/spreadsheets/d/1tbqZvCuZK9Hsl4uKQoyWU98ireHs9UZ3VOXO8N-noic/edit)
@@ -116,6 +118,7 @@ tagline: Oakland, California, November 2020
 * [League of Pissed Off](http://www.theleaguesf.org/)
 * [League of Women CA](https://lwvc.org/vote/elections/ballot-recommendations)
 * [League of Women SF](https://lwvsf.org/voter-resources)
+* [League of Women Oakland](https://drive.google.com/file/d/19mIWKuSLFvNYfBKz4yv_aWaQlwqt1NMC/view) [(OUSD7 vid)](https://www.youtube.com/watch?v=kApwfUlIZ04)
 * [Milk Club](http://www.milkclub.org/endorsements)
 * [MNG](https://www.eastbaytimes.com/2020/08/30/our-election-endorsements-for-the-nov-3-races-and-ballot-measures/) aka [corporate overlords](https://en.wikipedia.org/wiki/Digital_First_Media) of EB Times & Mercury News
 * [Nation State of Play](https://nation-state-of-play-california-politics-in-the-age-of-covi.simplecast.com/episodes/tracy-rosenberg-and-mary-stone-ross-on-a-ballot-measure-masquerading-as-a-privacy-proposal)
@@ -145,14 +148,8 @@ tagline: Oakland, California, November 2020
 * [Tech Equity](https://techequitycollaborative.org/november-2020-election-guide/)
 * [UUJMC](http://uujmca.org/advocacy/economic/2020-ballot-recommendations/)
 * [Voters Edge](https://votersedge.org/ca/en/election/2020-11-03/alameda-county)
-* [Wellstone](http://wellstoneclub.org/elections/), esp [re schools](http://wellstoneclub.org/wp-content/uploads/2020/09/2020-School-Board-Elections-Wellstone-Endorsement-Recs.pdf)
+* [Wellstone](http://wellstoneclub.org/elections/), esp [re schools](http://wellstoneclub.org/wp-content/uploads/2020/09/2020-School-Board-Elections-Wellstone-Endorsement-Recs.pdf) [(vid)](https://www.facebook.com/WellstoneDem/videos/298842841421549/)
 * [Yes on 15](https://www.yes15.org/)
 * [YIMBY Action](https://yimbyaction.org/endorsements/)
-
-# audio/video
-* 2020-08-15 International Forum w/[Marcie Hodge](https://www.facebook.com/tumbletweetmedia/videos/834040027128850)
-* 2020-08-18 2:58 [AC Dems' Oakland Candidates Forum](https://www.facebook.com/acdemocrats/videos/1266703727012996/) & [writeup](https://oaklandside.org/2020/08/19/oakland-city-council-candidates-discuss-issues-in-their-districts-virtually/)
-* 2020-08-20 2:17 [Wellstone Endorsement Meeting](https://www.facebook.com/WellstoneDem/videos/298842841421549/)
-* 2020-09-18 1:23 Leage of Women Voters Candidate Forum, [OUSD 7](https://www.youtube.com/watch?v=kApwfUlIZ04)
 
 maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [CA Senate](http://www.legislature.ca.gov/Final_2013_2014_Senate_Map_v2.pdf), [CA Assembly](http://www.legislature.ca.gov/assemblydistricts.html), [AC Supervisor](http://www.acgov.org/board/documents/districtmap.pdf), [AC Transit](http://www.actransit.org/wp-content/uploads/FinalWard.pdf), [Oakland Council](http://gisapps1.mapoakland.com/councildistricts/), [BART](https://www.bart.gov/about/bod/districts), [Peralta](https://web.peralta.edu/trustees/files/2011/06/Area-Map-and-Descriptions.pdf), [EBMUD](https://www.ebmud.com/about-us/board-directors/your-board-members/) & [EBRP](https://www.ebparks.org/civicax/filebank/blobdload.aspx?blobid=30073) districts
