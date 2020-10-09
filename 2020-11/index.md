@@ -28,34 +28,22 @@ tagline: Oakland, California, November 2020
 * **Prop 25: YES** Tough call. Doesn't go far enough to check racist judges, but ending cash bail will make future reform easier by cutting out the loan shark industry. After much thought I lean towards shaking up the status quo on this.
 * **Senate District 7: Nobody** Glazer sucks & the republican won't win
 * **Senate District 9: Nobody** Fuck Skinner and her right-libertarian challenger too
-* **Senate District 13: Becker** He'll need pushing left tho
-* **Senate District 15: \*shrug\*** Ravel is too corporate, Cortese too pro-cop
-* **Senate District 17: Laird** Not a right-winger like Chiu, at least
 * **Assembly District 15: Brink** A protest vote, but Wicks takes dirty money
-* **Assembly District 16: idk yet** Courage, SEIUs, Sierra, BAR like Bauer-Kahan
 * **Assembly District 18: Bonta** He's not perfect, probably doesn't need your help, but I'm feeling cautious about the Republican challenger
-* **Assembly District 20: Villalobos** OREB & BRA like V. IFPTE, PPA & SEIUs like Quirk. Progressive challenger to moderate incumbent
-* **Assembly District 25: Lee** Whole spectrum of the left seems to like him.
 
 # Alameda County
-* **Supervisor District 1: Vinnie Bacon** More likely to stand up to the sheriff
 * **Measure V: YES** Open to changing my mind though, since unincorporated areas tend to be poorer
 * **Measure W: YES** Again, feel iffy about sales tax, but homeless services ++
 * **Measure X: YES** I support fire department upgrades because I enjoy breathing air
 * **Transit At-Large: Victoria Fierce** I'll always side-eye her housing politics & history with SFBARF/YIMBY but this might be a good fit for her. Dollene Jones would be my first choice if she championed free rides the way Fierce does.
-* **Transit Ward 1: Jovanka Beckles** Pushes for free bus fare! Wallace won't.
 * **Transit Ward 2: Jean Walsh** Harper is smart but annoying, he isn't even trying anymore. Meanwhile, Walsh's history with Lyft concerns me, but I'm feeling generous towards her as a wide-eyed newcomer who hates cars.
 
 # East Bay / Regional
 * **Superior Court Judge Office #2: Elena Condes**
-* **Peralta Board Area 1: Jeff Heyman** [whistleblower](https://www.sfchronicle.com/bayarea/article/East-Bay-college-district-embroiled-in-tumult-13216664.php) against serious corruption
 * **Peralta Board Area 2: \*shrug\*** [Jenkins](https://www.jenkinsforperalta.com/) unopposed, libs like him
-* **Peralta Board Area 4: [Nicky Gonzalez Yuen](https://www.nickygy.org/)** Not embezzling or self-dealing AFAIK
 * **Peralta Board Area 6: \*shrug\*** [Polk](https://www.dyanaforperalta.com/) unopposed
 * **BART District 3: whatever** Saltzman unopposed, liberals seem to like her
-* **BART District 5: idk** McPartland has voted with progressives lately but his [white](https://www.sfchronicle.com/bayarea/article/BART-board-member-calls-Confederate-general-an-15367799.php) [bullshit](https://www.sfchronicle.com/bayarea/article/Policing-debates-could-shape-upcoming-BART-board-15483037.php) is strong. [Dunbar](https://www.dunbarforbart.com/) sounds good on the surface but dunno how he'll vote. Sadly, the bumbling well-meaning racist may be a safer bet. Wallace is bad.
 * **BART District 7: Lateefah Simon** BART Police are so afraid of this blind black incumbent, they send her death threats and are running their own candidate (Kidd) to represent cops
-* **EBRP Ward 1: idk** Echols is a career politician. I just can't bring myself to like La Force.
 * **EBRP Ward 2: \*shrug\*** Rosario unopposed
 * **EBRP Ward 4: \*shrug\*** Corbett unopposed
 
@@ -75,9 +63,6 @@ tagline: Oakland, California, November 2020
 * **Measure RR: NO** regressive fines
 * **Measure S1: YES** More cop oversight
 * **Measure Y: YES** Schools need the money. Mostly taxes the rich & benefits the poor.
-
-# elsewhere
-* **Sonoma County Measure P: YES** Actual cop oversight with teeth. Significant experimental reform that could be a model for the whole country.
 
 # other voting guides
 
