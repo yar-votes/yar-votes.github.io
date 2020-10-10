@@ -16,12 +16,12 @@ tagline: Oakland, California, November 2020
 # California
 * **Prop 14: NO** Don't subsidize big pharma unless you also tax it back
 * **Prop 15: YES** Large commercial properties should pay taxes. Long-overdue reform.
-* **Prop 16: YES** Affirmative action should not be illegal
+* **Prop 16: YES** Legalize affirmative action
 * **Prop 17: YES** Let ex-cons vote
 * **Prop 18: YES** Let 17yos vote in primaries
 * **Prop 19: idk** Flawed but might help somebody
 * **Prop 20: NO** We need fewer people in prison, not more. Fuck this measure.
-* **Prop 21: YES** Rent control should not be illegal
+* **Prop 21: YES** Legalize rent control
 * **Prop 22: NO** Uber, Lyft & Doordash just want to keep exploiting their workers
 * **Prop 23: NO** I'm loathe to side with bosses over unions, but must accept that in this case, the prop is a bullshit sideshow which would be bad for patients. [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
 * **Prop 24: NO** Pretends to be pro-privacy, but waters down privacy laws.
