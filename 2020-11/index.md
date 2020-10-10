@@ -24,16 +24,16 @@ tagline: Oakland, California, November 2020
 * **Prop 21: YES** Rent control should not be illegal
 * **Prop 22: NO** Uber, Lyft & Doordash just want to keep exploiting their workers
 * **Prop 23: NO** I'm loathe to side with bosses over unions, but must accept that in this case, the prop is a bullshit sideshow which would be bad for patients. [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
-* **Prop 24: NO** Pretends to be pro-privacy, but it waters down privacy laws.
+* **Prop 24: NO** Pretends to be pro-privacy, but waters down privacy laws.
 * **Prop 25: YES** Tough call. Doesn't go far enough to check racist judges, but ending cash bail will make future reform easier by cutting out the loan shark industry. After much thought I lean towards shaking up the status quo on this.
 * **Senate District 7: Nobody** Glazer sucks & the republican won't win
 * **Senate District 9: Nobody** Fuck Skinner and her right-libertarian challenger too
-* **Assembly District 15: Brink** A protest vote, but Wicks takes dirty money
-* **Assembly District 18: Bonta** He's not perfect, probably doesn't need your help, but I'm feeling cautious about the Republican challenger
+* **Assembly District 15: Brink** Wicks takes dirty money
+* **Assembly District 18: Bonta** He's not perfect, probably doesn't need your help, but I'm feeling cautious about the Republican
 
 # Alameda County
-* **Measure V: YES** Open to changing my mind though, since unincorporated areas tend to be poorer
-* **Measure W: YES** Again, feel iffy about sales tax, but homeless services ++
+* **Measure V: YES** Open to changing my mind, since unincorporated areas tend to be poorer
+* **Measure W: YES** Iffy about sales tax, but homeless services ++
 * **Measure X: YES** I support fire department upgrades because I enjoy breathing air
 * **Transit At-Large: Victoria Fierce** I'll always side-eye her housing politics & history with SFBARF/YIMBY but this might be a good fit for her. Dollene Jones would be my first choice if she championed free rides the way Fierce does.
 * **Transit Ward 2: Jean Walsh** Harper is smart but annoying, he isn't even trying anymore. Meanwhile, Walsh's history with Lyft concerns me, but I'm feeling generous towards her as a wide-eyed newcomer who hates cars.
@@ -48,7 +48,7 @@ tagline: Oakland, California, November 2020
 * **EBRP Ward 4: \*shrug\*** Corbett unopposed
 
 # Oakland
-* These are ranked choice, so I'm recommending a full slate of candidates for each district.
+* These are rank choice, so I'm recommending a full slate each
 * **Council District 1: Ngo, Kalb, Nobody** I've always had a soft spot for Kalb, but gotta give the longshot some love first. [Walton](https://www.youtube.com/watch?v=wu6Dp0ZjsRU) is a naive well-connected semi-reformist neoliberal, I'm not impressed.
 * **Council District 3: Fife, Taylor, Semedar** Fife will represent the grassroots in West Oakland like few have before. McElhaney is a disaster
 * **Council District 5: Lopez-Meraz, Raya, Nobody** Two [awesome progressive challengers](https://twitter.com/zoelopezmeraz/status/1302338841639034886). Enough of Gallo already
