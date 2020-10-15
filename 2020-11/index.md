@@ -11,7 +11,7 @@ tagline: Oakland, California, November 2020
 
 # US
 * **President: Joe Fuckface Biden** He fucking sucks. Fuck this fucking piece of shit. Please vote for him and then if he wins, immediately start throwing things at him. He's awful. But **VOTE FOR HIM NONETHELESS!!!**
-* **House: Write in Assata Shakur** or whoever else you like. Barbara Lee is too comfortable, getting outflanked on the left by newer reps.
+* **House: Nobody** Barbara Lee is too comfortable, getting outflanked on the left by newer reps.
 
 # California
 * **Prop 14: NO** Don't subsidize big pharma unless you also tax it back
