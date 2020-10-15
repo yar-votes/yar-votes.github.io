@@ -156,7 +156,7 @@ tagline: Oakland, California, November 2020
 * [Space Cats](http://spacecats.org/)
 * [SPUR](https://www.spur.org/voter-guide/oakland-2020-11)
 * [Stardust](http://stardustdoherty.org/wordpress/?p=9487)
-* [Sunrise](https://docs.google.com/spreadsheets/d/1wdMiCEH-H2djFvMFKWpN1LDo5b3DCe21EuDy_gAT2cI/edit#gid=231323275)
+* [Sunrise](https://docs.google.com/spreadsheets/d/1wdMiCEH-H2djFvMFKWpN1LDo5b3DCe21EuDy_gAT2cI/edit#gid=231323275) [(info)](https://drive.google.com/file/d/16UJ_zk-6pOUTmX1vd3cVfJHd1aJbY0_W/view)
 * [SURJ](https://docs.google.com/document/d/1BK3QOmRamm2l6Rhgi7X-xyRKMBQgEbYBCn2foEn_ULY/edit)
 * [SV Debug](https://www.instagram.com/p/CFf1m_DpMA4/)
 * [Tech Equity](https://techequitycollaborative.org/november-2020-election-guide/)
@@ -166,6 +166,7 @@ tagline: Oakland, California, November 2020
 * [Working Families](https://workingfamilies.org/candidates/)
 * [Yes on 15](https://www.yes15.org/)
 * [YIMBY Action](https://yimbyaction.org/endorsements/)
+* [YWFC for Formerly Incarcerated Folks](https://www.youngwomenfree.org/wp-content/uploads/2020/10/2020-YWFC-Voters-Guide-for-FIF.pdf)
 * [VOTE 2020](https://docs.google.com/spreadsheets/d/1wdMiCEH-H2djFvMFKWpN1LDo5b3DCe21EuDy_gAT2cI/edit#gid=231323275)
 
 maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [CA Senate](http://www.legislature.ca.gov/Final_2013_2014_Senate_Map_v2.pdf), [CA Assembly](http://www.legislature.ca.gov/assemblydistricts.html), [AC Supervisor](http://www.acgov.org/board/documents/districtmap.pdf), [AC Transit](http://www.actransit.org/wp-content/uploads/FinalWard.pdf), [Oakland Council](http://gisapps1.mapoakland.com/councildistricts/), [BART](https://www.bart.gov/about/bod/districts), [Peralta](https://web.peralta.edu/trustees/files/2011/06/Area-Map-and-Descriptions.pdf), [EBMUD](https://www.ebmud.com/about-us/board-directors/your-board-members/) & [EBRP](https://www.ebparks.org/civicax/filebank/blobdload.aspx?blobid=30073) districts
