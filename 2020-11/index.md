@@ -22,7 +22,7 @@ tagline: Oakland, California, November 2020
 * **Prop 19: idk** Flawed but might help somebody
 * **Prop 20: NO** We need fewer people in prison, not more. Fuck this measure.
 * **Prop 21: YES** Legalize rent control
-* **Prop 22: NO** Uber, Lyft & Doordash just want to keep exploiting their workers
+* **Prop 22: NO** Uber, Lyft & Doordash just want to keep exploiting their workers ([with astroturf](https://medium.com/@yardenack/gig-boss-astroturf-is-funny-and-bad-50a1017aa949))
 * **Prop 23: NO** I'm loathe to side with bosses over unions, but must accept that in this case, the prop is a bullshit sideshow which would be bad for patients. [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
 * **Prop 24: NO** Pretends to be pro-privacy, but waters down privacy laws.
 * **Prop 25: YES** Tough call. Doesn't go far enough to check racist judges, but ending cash bail will make future reform easier by cutting out the loan shark industry. After much thought I lean towards shaking up the status quo on this.
@@ -98,7 +98,7 @@ tagline: Oakland, California, November 2020
 * [Courage CA](https://progressivevotersguide.com/california/?county=alameda&c=1)
 * [Drake Talk Oakland](https://draketalkoakland.com/2020/10/01/alameda-county-and-oakland-ballot-measures/)
 * [DSA EB](https://www.eastbaydsa.org/endorsements/) [& National](https://electoral.dsausa.org/our-endorsements/)
-* EB Express
+* [EB Express](https://www.eastbayexpress.com/oakland/2020-election-guide-oakland-berkeley-alameda-and-the-county-board-of-supervisors/Content?oid=30818194&showFullText=true)
 * [EB 4 Everyone](https://eastbayforeveryone.org/election-2020/)
 * [EB Citizen](https://ebcitizen.com/category/election-2020/)
 * [EB Housing Orgs](http://ebho.org/our-work/2020-election/)
@@ -127,6 +127,7 @@ tagline: Oakland, California, November 2020
 * [League of Women CA](https://lwvc.org/vote/elections/ballot-recommendations)
 * [League of Women SF](https://lwvsf.org/voter-resources)
 * [League of Women Oakland](https://drive.google.com/file/d/19mIWKuSLFvNYfBKz4yv_aWaQlwqt1NMC/view) [(OUSD7 vid)](https://www.youtube.com/watch?v=kApwfUlIZ04)
+* [Mal (forked from me)](https://mal-votes.github.io/)
 * [Milk Club](http://www.milkclub.org/endorsements)
 * [Minority News](http://naacpslocty.org/wp-content/uploads/2020/09/MinorityNewsGen2020v3email-3.pdf) [(astroturf)](https://medium.com/@pacificstandardtime/minority-news-or-the-art-of-the-deceptive-campaign-mailer-cbdb1c0ebedd)
 * [MNG](https://www.eastbaytimes.com/2020/08/30/our-election-endorsements-for-the-nov-3-races-and-ballot-measures/) aka [corporate overlords](https://en.wikipedia.org/wiki/Digital_First_Media) of EB Times & Mercury News
