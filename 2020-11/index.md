@@ -23,7 +23,7 @@ tagline: Oakland, California, November 2020
 * **Prop 20: NO** We need fewer people in prison, not more. Fuck this measure.
 * **Prop 21: YES** Legalize rent control
 * **Prop 22: NO** Uber, Lyft & Doordash just want to keep exploiting their workers ([with astroturf](https://medium.com/@yardenack/gig-boss-astroturf-is-funny-and-bad-50a1017aa949))
-* **Prop 23: NO** I'm loathe to side with bosses over unions, but must accept that in this case, the prop is a bullshit sideshow which would be bad for patients. [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
+* **Prop 23: idk** I'm loathe to side with bosses over unions. I also suspect this prop is a bullshit sideshow which would be bad for patients. I've flipped twice already on this, and am not confident either way! [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
 * **Prop 24: NO** Pretends to be pro-privacy, but waters down privacy laws.
 * **Prop 25: YES** Tough call. Doesn't go far enough to check racist judges, but ending cash bail will make future reform easier by cutting out the loan shark industry. After much thought I lean towards shaking up the status quo on this.
 * **Senate District 7: Nobody** Glazer sucks & the republican won't win
@@ -80,6 +80,7 @@ tagline: Oakland, California, November 2020
 * [BA Study Circle](https://drive.google.com/file/d/1smpTpPPIwLn8r1WeJz8R-3Pm5nnVMshM/view)
 * [Bay Rising Action](https://bayrisingaction.org/2020summary/)
 * [Black Lives](https://www.blacklivesvoterguide.org/)
+* [Black Women for Wellness](https://www.bwwactionproject.org/wp-content/uploads/2020/09/Propositions-2020-BWWAP-small-file-size.pdf)
 * [CA Alliance for Retired Americans](https://californiaalliance.org/wp-content/uploads/2020/09/Slate-Card-revised-Sept-13-2020.pdf)
 * [CA Council of Churches](http://www.churchimpact.org/impact-blog/november-2020-ballot-recommendations-from-impact)
 * [CA Democrats](https://cademorg-media.s3.amazonaws.com/wp-content/uploads/2020/09/28204844/CDP-PropEnsorsements__Interactive.pdf)
@@ -89,7 +90,7 @@ tagline: Oakland, California, November 2020
 * [CA NAACP is corrupt](https://calmatters.org/politics/2020/09/california-naacp-president-helps-corporate-ballot-measure-campaigns/)
 * [CA Official](https://vig.cdn.sos.ca.gov/2020/general/pdf/complete-vig.pdf)
 * [CA Teachers Association](https://www.cta.org/election-2020)
-* [Cal Matters](https://calmatters.org/election-2020-guide/)
+* [Cal Matters](https://calmatters.org/election-2020-guide/) [+ prop spending](https://calmatters.org/politics/post-it/2020/10/biggest-spenders-california-props-campaigns-ballot-measures/)
 * [Catalyst](https://catalystactionfund.org/2020/10/01/catalyst-action-fund-endorsement-for-2020/)
 * [CEJA](http://ceja-action.org/ej-voter/voterguide/)
 * [Chinese for Affirmative Action](https://caasf.org/2020/10/2020-caa-voter-guide/)
@@ -118,6 +119,7 @@ tagline: Oakland, California, November 2020
 * [Justice LA](https://justicelanow.org/wp-content/uploads/2017/08/Coalition-Voting-Guide-2020-9-21.pdf)
 * [Kate Slate](http://urbandelicious.com/blog/2020/10/04/kate-slate-november-3-2020/) [& edited](https://docs.google.com/document/d/1pPAEiWgZC8TNAUK27OjXNy0nBBR8xYe-bitKI50R7Xw/edit)
 * [Kehilla](https://docs.google.com/spreadsheets/d/1tbqZvCuZK9Hsl4uKQoyWU98ireHs9UZ3VOXO8N-noic/edit)
+* [Keith](https://docs.google.com/spreadsheets/d/1_TM8EvNrmHEDHx9HvP91Epx5Y2cRGyvgSoAJmbgMbyk/edit)
 * [Kurt Nelson](https://techcrunch.com/2020/10/06/im-a-software-engineer-at-uber-im-voting-against-prop-22/?tpcc=ECTW2020)
 * [Kyle Trefny](https://www.instagram.com/p/CFak1TIgYuG/)
 * [LA Times](https://www.latimes.com/opinion/story/2020-09-09/la-times-endorsements-november-2020-election-trump-biden)
@@ -143,6 +145,7 @@ tagline: Oakland, California, November 2020
 * [PolicyLink](https://www.policylink.org/2020-CA-ballot-guide)
 * [Power CA](https://powercaaction.org/voterguide2020/)
 * [Progressive Google Sheet](https://docs.google.com/spreadsheets/d/17rf_j8iKf3n9ifNdnOdfxfRKKTc9EdDqxM-tfOX2GdU/htmlview?urp=gmail_link)
+* [Progressive Voter Guide](https://progressivevotersguide.com/california/2020/general/county/alameda)
 * [Queer Agenda (Juanita More)](https://static1.squarespace.com/static/57a214b89de4bb8f9ae6b08d/t/5f665ef0902e0625b913af9b/1600544497356/Juanita+MORE%21+The+Queer+Agenda+Voting+Guide+2020.pdf)
 * [Richmond Progressive](https://www.richmondprogressivealliance.net)
 * [SDUT for 24](https://www.sandiegouniontribune.com/opinion/commentary/story/2020-09-23/yes-on-proposition-24-data-privacy) [& against](https://www.sandiegouniontribune.com/opinion/commentary/story/2020-09-23/no-on-proposition-24-data-privacy)
