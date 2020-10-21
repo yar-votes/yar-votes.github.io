@@ -23,7 +23,7 @@ tagline: Oakland, California, November 2020
 * **Prop 20: NO** We need fewer people in prison, not more. Fuck this measure.
 * **Prop 21: YES** Legalize rent control
 * **Prop 22: NO** Uber, Lyft & Doordash just want to keep exploiting their workers ([with astroturf](https://medium.com/@yardenack/gig-boss-astroturf-is-funny-and-bad-50a1017aa949))
-* **Prop 23: idk** I'm loathe to side with bosses over unions. I also suspect this prop is a bullshit sideshow which would be bad for patients. I've flipped twice already on this, and am not confident either way! [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
+* **Prop 23: idk** I'm loathe to side with bosses over unions. I also suspect this prop is a cynical sideshow which would be bad for patients. I've flipped twice already on this, and am not confident either way! [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)
 * **Prop 24: NO** Pretends to be pro-privacy, but waters down privacy laws.
 * **Prop 25: YES** Tough call. Doesn't go far enough to check racist judges, but ending cash bail will make future reform easier by cutting out the loan shark industry. After much thought I lean towards shaking up the status quo on this.
 * **Senate District 7: Nobody** Glazer sucks & the republican won't win
