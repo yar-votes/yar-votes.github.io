@@ -134,7 +134,7 @@ tagline: Oakland, California, November 2020
 * [Mal (forked from me)](https://mal-votes.github.io/)
 * [Milk Club](http://www.milkclub.org/endorsements)
 * [Minority News](http://naacpslocty.org/wp-content/uploads/2020/09/MinorityNewsGen2020v3email-3.pdf) [(astroturf)](https://medium.com/@pacificstandardtime/minority-news-or-the-art-of-the-deceptive-campaign-mailer-cbdb1c0ebedd)
-* [MNG](https://www.eastbaytimes.com/2020/08/30/our-election-endorsements-for-the-nov-3-races-and-ballot-measures/) aka [corporate overlords](https://en.wikipedia.org/wiki/Digital_First_Media) of EB Times & Mercury News
+* [MNG aka corporate overlords of EB Times & Mercury News](https://www.eastbaytimes.com/2020/08/30/our-election-endorsements-for-the-nov-3-races-and-ballot-measures/) [(see)](https://en.wikipedia.org/wiki/Digital_First_Media)
 * [Nation State of Play](https://nation-state-of-play-california-politics-in-the-age-of-covi.simplecast.com/episodes/tracy-rosenberg-and-mary-stone-ross-on-a-ballot-measure-masquerading-as-a-privacy-proposal)
 * [Oakland Post](https://www.postnewsgroup.com/post-endorses-school-board-candidates-demanding-full-local-control-oppose-school-closings/)
 * [Oakland Rising](https://oaklandrising.org/elections/)[/Action](https://www.oaklandrisingaction.org/2020-voter-guide/)
@@ -167,12 +167,12 @@ tagline: Oakland, California, November 2020
 * [SV Debug](https://www.instagram.com/p/CFf1m_DpMA4/)
 * [Tech Equity](https://techequitycollaborative.org/november-2020-election-guide/)
 * [UUJMC](http://uujmca.org/advocacy/economic/2020-ballot-recommendations/)
+* [Vote Black (found on street)](https://photos.app.goo.gl/3kxNcW2MRuhn2q876)
 * [Voters Edge](https://votersedge.org/ca/en/election/2020-11-03/alameda-county)
-* [Wellstone](http://wellstoneclub.org/elections/), esp [re schools](http://wellstoneclub.org/wp-content/uploads/2020/09/2020-School-Board-Elections-Wellstone-Endorsement-Recs.pdf) [(vid)](https://www.facebook.com/WellstoneDem/videos/298842841421549/)
+* [Wellstone](http://wellstoneclub.org/elections/), [esp re schools](http://wellstoneclub.org/wp-content/uploads/2020/09/2020-School-Board-Elections-Wellstone-Endorsement-Recs.pdf) [(vid)](https://www.facebook.com/WellstoneDem/videos/298842841421549/)
 * [Working Families](https://workingfamilies.org/candidates/)
 * [Yes on 15](https://www.yes15.org/)
 * [YIMBY Action](https://yimbyaction.org/endorsements/)
 * [YWFC for Formerly Incarcerated Folks](https://www.youngwomenfree.org/wp-content/uploads/2020/10/2020-YWFC-Voters-Guide-for-FIF.pdf)
-* [VOTE 2020](https://docs.google.com/spreadsheets/d/1wdMiCEH-H2djFvMFKWpN1LDo5b3DCe21EuDy_gAT2cI/edit#gid=231323275)
 
 maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [CA Senate](http://www.legislature.ca.gov/Final_2013_2014_Senate_Map_v2.pdf), [CA Assembly](http://www.legislature.ca.gov/assemblydistricts.html), [AC Supervisor](http://www.acgov.org/board/documents/districtmap.pdf), [AC Transit](http://www.actransit.org/wp-content/uploads/FinalWard.pdf), [Oakland Council](http://gisapps1.mapoakland.com/councildistricts/), [BART](https://www.bart.gov/about/bod/districts), [Peralta](https://web.peralta.edu/trustees/files/2011/06/Area-Map-and-Descriptions.pdf), [EBMUD](https://www.ebmud.com/about-us/board-directors/your-board-members/) & [EBRP](https://www.ebparks.org/civicax/filebank/blobdload.aspx?blobid=30073) districts
