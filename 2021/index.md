@@ -10,9 +10,9 @@ If you live inside this black border, you have a special election on August 31 t
 
 ![California State Assembly District 18](https://cdn.ballotpedia.org/images/2/2c/CA_HD_18.JPG)
 
-## governor
+## September 14 governor recall
 
-We'll probably be voting soon on whether to recall & replace governor Newsom but nobody knows if/when yet.
+Please vote **NO** - do not recall governor Newsom. He's bad but anything else will be much worse.
 
 ## sources
 
