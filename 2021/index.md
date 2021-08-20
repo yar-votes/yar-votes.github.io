@@ -12,7 +12,7 @@ If you live inside this black border, you have a special election on August 31 t
 
 ## September 14 governor recall
 
-Please vote **NO** - do not recall governor Newsom. He's bad but anything else will be much worse.
+Please vote **NO** - do not recall governor Newsom. Yes, he's bad. Yes, there may be some candidates better than him. But you will not get them. The question isn't "do you like him", it's "do you want our next governor to be elected by a simple plurality of the smaller subset of voters who dislike him enough to recall him." Think it through. It's a rigged con job. You will lose. Republicans will win. Don't fall for it. Vote **NO**!
 
 ## sources
 
