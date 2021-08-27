@@ -832,3 +832,6 @@ ul.wrapped-list {
 ul.no-dot {
     list-style: none outside none;
 }
+ul.no-dot li {
+    text-align: left;
+}
