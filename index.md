@@ -1,3 +1,3 @@
 ---
-redirect_to: "/2021/"
+redirect_to: "/2022-06/"
 ---
