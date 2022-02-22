@@ -20,8 +20,4 @@ Primary hasn't even started, but this is for the general
 # City
 * Mayor: we'll see. not schaaf or scott
 
-# other voting guides
-
-{:.wrapped-list}
-
 map of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts) districts

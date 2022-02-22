@@ -26,11 +26,10 @@ Our next election is the California primary.
 * Sheriff: JoAnn Walker
 * DA: [Pamela Price](https://www.pamelaprice4da.com/)
 
-# other voting guides
+# links
 
 {:.wrapped-list}
 * [ballot preview](https://ballotpedia.org/Sample_Ballot_Lookup)
 * [sos.ca.gov upcoming](https://www.sos.ca.gov/elections/upcoming-elections/primary-election-june-7-2022)
 * [oaklandside on Price & Walker](https://oaklandside.org/2021/01/13/black-women-with-civil-rights-and-policing-experience-will-run-for-district-attorney-and-sheriff-in-2022/)
-
-map of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts) districts
+* map of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts) districts
