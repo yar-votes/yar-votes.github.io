@@ -42,7 +42,7 @@ The MOST IMPORTANT votes this year are DA & Sherriff! If you vote for nobody els
 * **Judge 21:** write in **Steve Donziger**
 
 # Oakland
-* **Measure C: YES** Libraries are godo
+* **Measure C: YES** Libraries are good
 
 # other resources
 
