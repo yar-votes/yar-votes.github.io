@@ -11,38 +11,38 @@ Early voting has begun for the California primary
 
 This year we have a [left unity slate](https://leftunityslate.org/candidate-list/). I have reservations about how white this slate is (at least half) and how insular the green and "peace & freedom" parties can be. But ultimately after researching the candidates, I think all their choices make sense, so I'm fully endorsing this slate.
 
-The MOST IMPORTANT votes this year are DA & Sherriff! If you vote for nobody else, vote for Pamela Price & JoAnn Walker!
+The MOST IMPORTANT votes this year are DA & Sherriff! If you vote for nobody else, **vote for Pamela Price & JoAnn Walker!**
 
 # Federal
-* **House: Glenn Kaplan** I'm glad to see someone challenge Lee from the left
-* **Senate next term: John Thompson Parker** Tough call - I also liked Eleanor Garcia
-* **Senate this term: John Thompson Parker** (write him in)
+* House: Glenn Kaplan I'm glad to see someone challenge Lee from the left
+* Senate next term: John Thompson Parker Tough call - I also liked Eleanor Garcia
+* Senate this term: John Thompson Parker (write him in)
 
 # State
-* **Governor: Luis Javier Rodriguez**
-* **Lt Gov: Mohammad Arif**
-* **Attygen: Dan Kapelovitz**
-* **Sec of State: Gary Blenner**
-* **Controller: Laura Wells**
-* **Treasurer: Meghann Adams**
-* **Insurance Commissioner: Nathalie Hrizi**
-* **Board of Eq District 2: Sally Lieber**
-* **Supe: Marco Amaral**
+* Governor: Luis Javier Rodriguez
+* Lt Gov: Mohammad Arif
+* Attygen: Dan Kapelovitz
+* Sec of State: Gary Blenner
+* Controller: Laura Wells
+* Treasurer: Meghann Adams
+* Insurance Commissioner: Nathalie Hrizi
+* Board of Eq District 2: Sally Lieber
+* Supe: Marco Amaral
 * Assembly 18: don't vote for anybody
 
 # County
-* **Sheriff: JoAnn Walker**
-* **DA: Pamela Price**
+* Sheriff: JoAnn Walker
+* DA: Pamela Price
 * Assessor: don't vote for anybody
-* **Auditor: Melissa Wilk**
-* **Treasurer: Henry Levy**
-* **Supe: Alysse Castro**
-* **Judge 1: Tamiza Hockenhull**
-* **Judge 12: Pelayo Llamas**
-* **Judge 21:** write in **Steve Donziger**
+* Auditor: Melissa Wilk
+* Treasurer: Henry Levy
+* Supe: Alysse Castro
+* Judge 1: Tamiza Hockenhull
+* Judge 12: Pelayo Llamas
+* Judge 21: write in Steve Donziger
 
 # Oakland
-* **Measure C: YES** Libraries are good
+* Measure C: YES Libraries are good
 
 # other resources
 
