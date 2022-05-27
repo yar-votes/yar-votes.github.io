@@ -5,7 +5,6 @@ tagline: Oakland, California, June 2022
 ---
 
 Early voting has begun for the California primary
-* Register by May 23
 * Mail ballot by June 1
 * Vote by June 7
 
