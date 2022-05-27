@@ -88,7 +88,7 @@ The MOST IMPORTANT votes this year are DA & Sherriff! If you vote for nobody els
 * [Milk Club](https://www.milkclub.org/endorsements)
 * [MNG](https://www.eastbaytimes.com/2022/04/23/our-endorsements-for-races-and-measures-on-the-june-7-2022-california-primary-ballot/) [(aka EB Times & Mercury News)](https://en.wikipedia.org/wiki/Digital_First_Media)
 * [Oakland Post](https://www.postnewsgroup.com/california-22-primary-election-black-candidates-running-for-statewide-office/)
-* [Oakland Rising Action](https://oaklandrisingaction.org/2022-june-primary-elections/) ((talk w/price))[https://www.facebook.com/ORAction/videos/537672374424508]
+* [Oakland Rising Action](https://oaklandrisingaction.org/2022-june-primary-elections/) [(talk w/price)](https://www.facebook.com/ORAction/videos/537672374424508)
 * [Oaklandside](https://oaklandside.org/2021/01/13/black-women-with-civil-rights-and-policing-experience-will-run-for-district-attorney-and-sheriff-in-2022/) [on Measure C](https://oaklandside.org/2022/05/03/ballot-measure-c-oakland-library-funding/)
 * [Our Revolution EB](https://www.ourrevolutioneastbay.org/endorsements.html)
 * [Pamela Price](https://www.pamelaprice4da.com/)
