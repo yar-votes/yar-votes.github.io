@@ -70,6 +70,7 @@ The MOST IMPORTANT votes this year are DA & Sherriff! If you vote for nobody els
 * [EB Citizen](https://ebcitizen.com/2021/03/16/2022-east-bay-candidate-list-march-primary/)
 * [EB Stonewall Dems](http://eastbaystonewalldemocrats.org/Elections)
 * [EB Young Dems](https://www.ebyd.org/endorsements)
+* [Ella Baker forum](https://drive.google.com/file/d/1ioHTrUi49Qn6KzZ42Y68jXOvDknGNNoW/view)
 * [Equality CA](https://www.eqca.org/elections/)
 * [Faith in Action](https://us02web.zoom.us/rec/play/1pWMhGGds1LF-xzzWDKGzVK0iy9UQO-TcVyNvlKQ-1CIqyuiJwo-A83O3tHlfbRXGhE1UqsRe1Qgt1s4.0GSdUm7Ld6fWyVpN?continueMode=true&_x_zm_rtaid=bxsYBr07QRe0s5uJYpxvGQ.1653639273629.7a66da637dcb7038c2ff1683df9f451d&_x_zm_rhtaid=267)
 * [Genesis of Tri-Valley](https://www.youtube.com/watch?v=QNoXaC7hTEs)
