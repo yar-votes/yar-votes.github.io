@@ -4,18 +4,18 @@ content_type: md
 tagline: Oakland, California, November 2022
 ---
 
-Primary hasn't even started, but this is for the general
+General election is Tuesday November 8, 2022
 
 # Federal
 * House: write in Assata Shakur, as always
-* Senate: we'll see who the top two is
+* Senate: Alex Padilla, meh
 
 # State
-* Governor: tba
-* Attygen: tba
-* Sec of State: tba
-* Controller: tba
-* Insurance Commissioner: tba
+* Governor: that piece of shit Gavin Newsom
+* Attygen: tbd
+* Sec of State: tbd
+* Controller: tbd
+* Insurance Commissioner: tbd
 
 # City
 * Mayor: we'll see. not schaaf or scott
