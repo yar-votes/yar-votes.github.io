@@ -50,6 +50,9 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 
 # City of Oakland
 * Mayor: 1) Victory 2) Thao 3) Hodge 4) Taylor. Taylor is too soft on cops and surveillance, but he's less of an establishment shill and less anti-homeless than Treva Reid or De La Fuente.
+* Council District 2: Bas
+* Council District 4: Ramachandran
+* Council District 6: 1) Zazaboi 2) Sessions. Not a fan of Jenkins or Sidebotham.
 * Auditor: IDK
 * School Measure H: YES
 * Measure M: YES, vacancy tax
@@ -63,7 +66,6 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Measure W: YES, reform campaign finance
 * Measure X: IDK, need to read more
 * Measure Y: YES, fund zoo
-* city council: nikki bas?
 
 # other resources
 
