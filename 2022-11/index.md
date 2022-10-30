@@ -49,7 +49,7 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Measure D: IDK, is this a nimby thing?
 
 # City of Oakland
-* Mayor: 1) Thoa 2 ??? 3) Taylor. Taylor is too soft on cops and surveillance, but he's less of a party shill than Treva Reid. Full disclosure, I'm still looking at Greg Hodge sideways and trying to figure out his deal or whether to rank him here.
+* Mayor: 1) Victory 2) Thao 3) Hodge 4) Taylor. Taylor is too soft on cops and surveillance, but he's less of an establishment shill and less anti-homeless than Treva Reid or De La Fuente.
 * Auditor: IDK
 * School Measure H: YES
 * Measure M: YES, vacancy tax
@@ -69,6 +69,7 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 
 {:.wrapped-list}
 * [AAPI FORCE-EF](https://www.aapiforce-ef.vote/election-guide)
+* [Dan Kalb](https://www.dankalb.net/dan-s-voter-guide-nov-2022)
 * [EB YIMBY](https://www.eastbayyimby.org/endorsements)
 * [League of Women Voters](https://www.lwvoakland.org/decide-nov22)
 * [MGO](https://mgodems.org/)
