@@ -28,7 +28,7 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Justice Groban: IDK
 * Prop 1: YES, always reproductive rights.
 * Prop 26: IDK, need to read more
-* Prop 27: IDK, need to read more
+* Prop 27: NO, not even casino tribes want this
 * Prop 28: YES, always money for public schools.
 * Prop 29: IDK, need to read more
 * Prop 30: YES, tax millionaires to mitigate climate change.
