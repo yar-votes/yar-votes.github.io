@@ -27,10 +27,10 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Justice Jenkins: IDK
 * Justice Groban: IDK
 * Prop 1: YES, always reproductive rights.
-* Prop 26: IDK, need to read more
+* Prop 26: YES, tough call, but 27 is so bad, voting yes on this is like voting no twice for that
 * Prop 27: NO, not even casino tribes want this
 * Prop 28: YES, always money for public schools.
-* Prop 29: IDK, need to read more
+* Prop 29: IDK, it's a union vs bosses with disabled folks caught in the middle
 * Prop 30: YES, tax millionaires to mitigate climate change.
 * Prop 31: YES, fuck tobacco.
 
