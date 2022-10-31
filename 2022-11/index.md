@@ -134,4 +134,4 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * [Working Families](https://workingfamilies.org/state/california/)
 * [Yimby Action](https://yimbyaction.org/endorsements/)
 
-maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [CA Senate, Assembly & Equalization](https://statewidedatabase.org/gis/districtscomp.html) & [AC Supervisor](http://www.acgov.org/board/documents/districtmap.pdf) districts
+maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [CA Senate, Assembly & Equalization](https://statewidedatabase.org/gis/districtscomp.html), [AC Supervisor](http://www.acgov.org/board/documents/districtmap.pdf) & [Oakland Council](https://oakgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=da589a352c8641459af8a0f890398d44%2F) districts
