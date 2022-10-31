@@ -46,7 +46,7 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Justice Goldman: IDK
 * Justice Jackson: IDK
 * Justice Burns: IDK
-* Measure D: IDK, is this a nimby thing?
+* Measure D: YES, let them build a few more buildings, it's fine
 
 # City of Oakland
 * Mayor: 1) Victory 2) Thao 3) Hodge 4) Taylor. Taylor is too soft on cops and surveillance, but he's less of an establishment shill and less anti-homeless than Treva Reid or De La Fuente.
@@ -55,8 +55,6 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Council District 6: 1) Zazaboi 2) Sessions. Not a fan of Jenkins or Sidebotham.
 * Auditor: IDK
 * School Measure H: YES
-* Measure M: YES, vacancy tax
-* Measure T: IDK, cut small business tax while funding services
 * Measure Q: YES, build affordable housing
 * Measure R: YES, gender neutral language
 * Measure S: YES, let noncitizens vote
@@ -64,7 +62,7 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * Measure U: YES, bonds for services
 * Measure V: YES, protect tenants from eviction
 * Measure W: YES, reform campaign finance
-* Measure X: IDK, need to read more
+* Measure X: YES, council term limits and other reasonable rule changes
 * Measure Y: YES, fund zoo
 
 # other resources
@@ -100,6 +98,7 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * [Equality CA](https://www.eqca.org/elections/)
 * [I Will Vote](https://iwillvote.com/)
 * [Indivisible SF](https://indivisiblesf.org/blog/2022/9/27/propositions-on-the-2022-octnov-ballot)
+* [Greenbelt Alliance](https://www.greenbelt.org/blog/alameda-county-vote-yes-on-measure-d/)
 * [Know Your BOS](https://www.youtube.com/watch?v=oO98_W_98hs)
 * [KQED](https://www.kqed.org/voterguide)
 * [LA Times](https://www.latimes.com/opinion/story/2022-09-08/los-angeles-times-elections-endorsements-november-2022-races)
