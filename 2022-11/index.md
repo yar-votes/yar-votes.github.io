@@ -1,10 +1,10 @@
 ---
 layout: default
 content_type: md
-tagline: Oakland, California, November 2022
+tagline: Oakland California November 8, 2022
 ---
 
-Most of the candidate drama happened in June's primary, and now there's lots of strict 2-person races with no write-ins or anything. So that will be easy. But I still need more time to research a lot of these, sorry it's been a busy year. Vote by Tuesday November 8, 2022.
+Sorry I didn't have time to research much outside my own districts. It's been a busy year.
 
 # USA
 * House: Lee, meh
