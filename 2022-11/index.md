@@ -21,46 +21,46 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * State Assembly 14: Wicks
 * State Assembly 18: Bonta
 * BOE District 2: Lieber
-* Supe of Public Instruction: IDK
-* Justice Guerrero: IDK
-* Justice Liu: IDK
-* Justice Jenkins: IDK
-* Justice Groban: IDK
+* Supe of Public Instruction: Thurmond
+* Justice Guerrero: YES
+* Justice Liu: YES
+* Justice Jenkins: YES
+* Justice Groban: YES
 * Prop 1: YES, always reproductive rights.
 * Prop 26: YES, tough call, but 27 is so bad, voting yes on this is like voting no twice for that
 * Prop 27: NO, not even casino tribes want this
 * Prop 28: YES, always money for public schools.
-* Prop 29: IDK, it's a union vs bosses with disabled folks caught in the middle
-* Prop 30: YES, tax millionaires to mitigate climate change.
+* Prop 29: YES, better for patients than 2020's prop 23 was
+* Prop 30: IDK
 * Prop 31: YES, fuck tobacco.
 
 # Alameda County
-* District Attorney: Pamela Price
-* AC Transit Director: Alfred Twu
-* Justice Stewart: IDK
-* Justice Tucher: IDK
-* Justice Rodriguez: IDK
-* Justice Petrou: IDK
-* Justice Fujisaki: IDK
-* Justice Brown: IDK
-* Justice Goldman: IDK
-* Justice Jackson: IDK
-* Justice Burns: IDK
+* DA: Price
+* AC Transit Director: Twu
+* Justice Stewart: YES
+* Justice Tucher: YES
+* Justice Rodriguez: YES
+* Justice Petrou: YES
+* Justice Fujisaki: YES
+* Justice Brown: YES
+* Justice Goldman: YES
+* Justice Jackson: YES
+* Justice Burns: YES
 * Measure D: YES, let them build a few more buildings, it's fine
 
 # City of Oakland
-* Mayor: 1) Victory 2) Thao 3) Hodge 4) Taylor. Taylor is too soft on cops and surveillance, but he's less of an establishment shill and less anti-homeless than Treva Reid or De La Fuente.
+* Mayor: 1) Victory 2) Hodge 3) Thao 4) Taylor. Taylor is too soft on cops and surveillance, but he's less anti-homeless than Reid or DLF
 * Council District 2: Bas
 * Council District 4: Ramachandran
-* Council District 6: 1) Zazaboi 2) Sessions. Not a fan of Jenkins or Sidebotham.
-* Auditor: IDK
+* Council District 6: 1) Sessions 2) Zazaboi. Not a fan of Jenkins or Sidebotham.
+* Auditor: Ruby
 * School Measure H: YES
 * Measure Q: YES, build affordable housing
 * Measure R: YES, gender neutral language
 * Measure S: YES, let noncitizens vote
 * Measure T: YES, progressive business tax
 * Measure U: YES, bonds for services
-* Measure V: YES, protect tenants from eviction
+* Measure V: YES, more eviction protections, more rent control
 * Measure W: YES, reform campaign finance
 * Measure X: YES, council term limits and other reasonable rule changes
 * Measure Y: YES, fund zoo
@@ -90,15 +90,17 @@ Most of the candidate drama happened in June's primary, and now there's lots of 
 * [CEJA](https://ceja-action.org/ej-voter/2022ejcrew/)
 * [Courage CA / Progressive](https://progressivevotersguide.com/california/2022/general/county/alameda)
 * [Dan Kalb](https://www.dankalb.net/dan-s-voter-guide-nov-2022)
+* [East Bay Insider](https://eastbayinsiders.substack.com/p/former-council-aide-to-sheng-thao)
 * [Easy Voter Guide](https://easyvoterguide.org/) [(english)](https://easyvoterguide.org/wp-content/uploads/2022/09/EVG-Nov2022-Eng.pdf)
 * [EB Citizen](https://ebcitizen.com/2021/03/16/2022-east-bay-candidate-list-march-primary/)
 * [EB Stonewall Dems](http://eastbaystonewalldemocrats.org/Elections)
 * [EB YIMBY](https://www.eastbayyimby.org/endorsements)
 * [EB Young Dems](https://www.ebyd.org/endorsements)
 * [Equality CA](https://www.eqca.org/elections/)
+* [Greenbelt Alliance](https://www.greenbelt.org/blog/alameda-county-vote-yes-on-measure-d/)
 * [I Will Vote](https://iwillvote.com/)
 * [Indivisible SF](https://indivisiblesf.org/blog/2022/9/27/propositions-on-the-2022-octnov-ballot)
-* [Greenbelt Alliance](https://www.greenbelt.org/blog/alameda-county-vote-yes-on-measure-d/)
+* [Jaime Omar Yassin](https://hyphenatedrepublic.com/2022/10/28/6578/)
 * [Know Your BOS](https://www.youtube.com/watch?v=oO98_W_98hs)
 * [KQED](https://www.kqed.org/voterguide)
 * [LA Times](https://www.latimes.com/opinion/story/2022-09-08/los-angeles-times-elections-endorsements-november-2022-races)
