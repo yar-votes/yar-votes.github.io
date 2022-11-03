@@ -31,8 +31,8 @@ Sorry I didn't have time to research much outside my own districts. It's been a 
 * Prop 27: NO, not even casino tribes want this
 * Prop 28: YES, always money for public schools.
 * Prop 29: YES, better for patients than 2020's prop 23 was
-* Prop 30: IDK
-* Prop 31: YES, fuck tobacco.
+* Prop 30: YES, fuck lyft but EV infra needs to happen
+* Prop 31: YES, flavored tobacco is bad
 
 # Alameda County
 * DA: Price
@@ -87,6 +87,7 @@ Sorry I didn't have time to research much outside my own districts. It's been a 
 * [CA Official](https://vig.cdn.sos.ca.gov/2022/general/pdf/complete-vig.pdf)
 * [CA Teachers](https://www.cta.org/our-advocacy/election-2022/recommendations-2022)
 * [Cal Matters](https://calmatters.org/california-voter-guide-2022/)
+* [Campaign finance data](https://data.oaklandca.gov/campaign_finance/contribution?electionYear=2022&since=2020-02-22&until=2022-10-30)
 * [CEJA](https://ceja-action.org/ej-voter/2022ejcrew/)
 * [Courage CA / Progressive](https://progressivevotersguide.com/california/2022/general/county/alameda)
 * [Dan Kalb](https://www.dankalb.net/dan-s-voter-guide-nov-2022)
@@ -117,9 +118,11 @@ Sorry I didn't have time to research much outside my own districts. It's been a 
 * [Oakland Post](https://www.postnewsgroup.com/op-ed-public-safety-for-oakland-prevention-and-policing-intervention-and-enforcement/)
 * [Oakland Rising](https://www.oaklandrising.org/2022voterguide/)[ / Action](https://oaklandrisingaction.org/2022VoterGuide/)
 * [Oaklandside](https://oaklandside.org/oakland-election-2022/)
+* [oakmtg.club](https://www.oakmtg.club/2022/guide/)
 * [Our Revolution EB](https://www.ourrevolutioneastbay.org/endorsements---nov-2022.html)
 * [Pamela Price](https://www.pamelaprice4da.com/)
 * [Planned Parenthood Action](https://www.plannedparenthoodaction.org/planned-parenthood-advocates-mar-monte/voter-guide-2022/ca-endorsements#alameda)
+* [Politico](https://www.politico.com/interactives/2022/california-ballot-measures-propositions-guide-2022/)
 * [Power CA](https://powercaaction.org/voting-resources/)
 * [Queer Agenda (Juanita More)](https://juanitamore.com/vote)
 * [Sec of State](https://www.sos.ca.gov/elections/upcoming-elections/general-election-nov-8-2022)
@@ -130,6 +133,8 @@ Sorry I didn't have time to research much outside my own districts. It's been a 
 * [SF Public Press](https://www.sfpublicpress.org/november-2022-sf-election-guide/)
 * [SF Tenants Union](https://sftu.org/endorsements/)
 * [SPUR](https://www.spur.org/voter-guide/2022-11)
+* [Transport Oakland](https://docs.google.com/document/d/1ZeeINU0a3sn4MdejfhhcYKjlNPPc9ZNe2BW2sFUSJWU/)
+* [University Lutheran Chapel](https://drive.google.com/file/d/11eBdJjN6swfCcGpgJXb1QJ6VhJCt6FxH/view)
 * [Voters Edge](http://votersedge.org/ca/en/election/2022-11-08/alameda-county)
 * [Wellstone](http://wellstoneclub.org/new-endorsements/)
 * [Working Families](https://workingfamilies.org/state/california/)
