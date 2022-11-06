@@ -49,7 +49,7 @@ Sorry I didn't have time to research much outside my own districts. It's been a 
 * Measure D: YES, let them build a few more buildings, it's fine
 
 # City of Oakland
-* Mayor: 1) Victory 2) Hodge 3) Thao 4) Taylor. Taylor is too soft on cops and surveillance, but he's less anti-homeless than Reid or DLF
+* Mayor: 1) Victory 2) Hodge 3) Thao 4) Taylor. Taylor is absolutely terrible on many issues (cops, surveillance, landlords) but compared to Reid or DLF I see him as the lesser of 3 evils
 * Council District 2: Bas
 * Council District 4: Ramachandran
 * Council District 6: 1) Sessions 2) Zazaboi. Not a fan of Jenkins or Sidebotham.
