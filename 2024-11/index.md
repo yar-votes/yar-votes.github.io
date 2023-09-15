@@ -9,9 +9,9 @@ tagline: Oakland California November 5, 2024
 * CA Senator
 * CA Assembly 14
 * CA Assembly 18
-* Ballot on raising minimum wage to $18: YES
+* ballot on raising minimum wage to $18: YES
 
 # sources
-* [wikipedia on ca assembly,](https://en.wikipedia.org/wiki/2024_California_State_Assembly_election) [us president,](https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_California) [us senate](https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California)
+* [wikipedia on ca assembly,](https://en.wikipedia.org/wiki/2024_California_State_Assembly_election) [ca senate,](https://en.wikipedia.org/wiki/2024_California_State_Senate_election) [us president,](https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_California) [us senate](https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California)
 
-map of [CA Senate, Assembly & Equalization](https://statewidedatabase.org/gis/districtscomp.html) districts
+map of [ca senate & assembly](https://statewidedatabase.org/gis/districtscomp.html) districts

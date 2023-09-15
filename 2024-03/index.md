@@ -18,4 +18,4 @@ The California primary is on Super Tuesday, coming up fast...
 * [wikipedia on ca assembly,](https://en.wikipedia.org/wiki/2024_California_State_Assembly_election) [ca senate,](https://en.wikipedia.org/wiki/2024_California_State_Senate_election) [us senate,](https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California) [us president d](https://en.wikipedia.org/wiki/2024_California_Democratic_presidential_primary) [& r](https://en.wikipedia.org/wiki/2024_California_Republican_presidential_primary)
 * [yimby action state senate forum](https://www.eventbrite.com/e/california-senate-district-7-candidate-forum-tickets-706272308487)
 
-map of [CA senate, assembly & equalization](https://statewidedatabase.org/gis/districtscomp.html) & [AC supe](http://www.acgov.org/board/documents/districtmap.pdf) districts
+map of [ca senate, assembly & equalization](https://statewidedatabase.org/gis/districtscomp.html) & [ac supe](http://www.acgov.org/board/documents/districtmap.pdf) districts
