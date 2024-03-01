@@ -14,5 +14,5 @@ If you live in or near the Fruitvale neighborhood:
 # sources
 * [county info](https://www.acvote.org/election-information/elections?id=253)
 * [oaklandside questionnaire](https://oaklandside.org/wp-content/uploads/2020/09/Lerma.pdf)
-* [oakland rising action](https://oaklandrisingaction.org/2023vg/)
+* [oakland rising action](https://oaklandrisingaction.org/2023vg/) [& srh meet-n-greet](https://www.youtube.com/watch?v=PaFt3U9Tpt4)
 * [oakmtg.club](https://www.oakmtg.club/2020/candidates/jorge-c-lerma/)
