@@ -6,14 +6,32 @@ tagline: Oakland California March 5, 2024
 
 The California primary is on Super Tuesday, coming up fast...
 
-* US President: the least hideously evil of whoever we get
-* US Senator: katie porter or barbara lee? tough one idk
-* CA Senator: probs beckles, though it's tempting to have kalb fail up
-* CA Assembly 14: we'll see
-* CA Assembly 18
-* AC supe 4
+# Fed
+* President: write in Hind Rajab, the little girl murdered by zionist tanks in gaza
+* Senate: Lee - she might be a spoiler vote that enables a republican to get on the ballot, but she's better on Gaza, and it's hard to care about anything else rn
+* Rep: Tran or Simon. i can't decide who's better on gaza.
+
+# State
+* Senate: beckles. it's tempting to have kalb fail up, but bleh
+* Ass 14: Smith
+* Ass 18: Bonta will definitely win 1st place. Sandford is sus, but I'd much rather see him on the ballot than a Republican. So I will vote Sandford. Top-two is wild.
+* Prop 1: NO don't fall for this carceral crap
+
+# County
+* Supe 4: Esteen
+* Supe 5: Bas
+* Judge 5: idk
+* Judge 12: idk
+* Measure A: idk
+* Measure B: idk
+
+# City
+* Auditor: idk
+* Measure D: idk
 
 # sources
+
+{:.wrapped-list}
 * [ac dems](https://acdems.org/endorsements/)
 * [ac greens](https://acgreens.files.wordpress.com/2024/01/gpac-vg-03-24-web-rev.pdf)
 * [alameda labor council / AFL-CIO](https://alamedalabor.org/wp-content/uploads/2024/02/alc_2024-primary-endorsements_web-3.jpg)
@@ -54,7 +72,7 @@ The California primary is on Super Tuesday, coming up fast...
 * [seiu 521](https://www.seiu521.org/2024election/)
 * [sf bay guardian](https://www.sfbg.com/2024/02/01/endorsements-for-the-march-5-2024-election/)
 * [sf berniecrats](https://sfberniecrats.com/march-2024-primary-endorsements/)
-* [sf chronicle](https://www.sfchronicle.com/projects/2024/california-primary-voter-guide/)
+* [sf chronicle](https://www.sfchronicle.com/projects/2024/california-primary-election-endorsements/)
 * [sf public press](https://www.sfpublicpress.org/march-2024-sf-election-guide/)
 * [sf tenants union](https://sftu.org/endorsements/)
 * [spur](https://www.spur.org/voter-guide/2024-03)
