@@ -9,7 +9,7 @@ The California primary is on Super Tuesday, coming up fast...
 # Fed
 * President: write in Hind Rajab, the little girl murdered by zionist tanks in gaza
 * Senate: Lee - she might be a spoiler vote that enables a republican to get on the ballot, but she's better on Gaza, and it's hard to care about anything else rn
-* Rep: Tran or Simon. i can't decide who's better on gaza.
+* Rep: Simon is the least bad. I wanted to like Tran until I actually [listened to her talk](https://www.youtube.com/watch?v=NzU5pyjCUgw)
 
 # State
 * Senate: beckles. it's tempting to have kalb fail up, but bleh
