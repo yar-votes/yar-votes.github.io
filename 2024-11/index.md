@@ -45,9 +45,10 @@ tagline: Oakland California November 5, 2024
 * county supe 5: bas, nobody
 * ac transit 2: walsh
 * bart 5: idk
+* bart 7: i voted flores because greens told me to
 * ebmud 5: idk
 * ebmud 6: idk
-* parks 2: idk
+* parks 2: i voted deschambault because greens told me to
 * parks 4: idk
 * peralta 2: gonzalez
 
