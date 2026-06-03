@@ -4,27 +4,27 @@ content_type: md
 tagline: Oakland California June 2, 2026
 ---
 # statewide
-* governor: write in Butch Ware if you're feeling bold or irreverent, vote becerra if you're still feeling nervous about two maga republicans getting to the general
-* lt gov: tubbs. left enough while still being remotely viable
-* sec of state: blenner. a teacher who wants to reform ca election processes. weber is an establishment dem incumbent and will win, but blenner is not just a protest vote - he could get to the general
-* controller: adams. reform/protest vote, but it will be incumbent D vs R challenger
-* treasurer: turner. i wanted to like caballero, but she sucks on climate & cops
-* attorney general: mikels
-* insurance commissioner: kim
-* board of eq 2: lieber
-* judge 13: bonner
-* judge 19: warren
-* state supe: henderson
+* **governor: write in Butch Ware** if you're feeling bold or irreverent, vote becerra if you're still feeling nervous about two maga republicans getting to the general
+* **lt gov: tubbs**. left enough while still being remotely viable
+* **sec of state: blenner**. a teacher who wants to reform ca election processes. weber is an establishment dem incumbent and will win, but blenner is not just a protest vote - he could get to the general
+* **controller: adams**. reform/protest vote, but it will be incumbent D vs R challenger
+* **treasurer: turner**. i wanted to like caballero, but she sucks on climate & cops
+* **attorney general: mikels**
+* **insurance commissioner: kim**
+* **board of eq 2: lieber**
+* **judge 13: bonner**
+* **judge 19: warren**
+* **state supe: henderson**
 
 # local
-* us rep: simon
+* **us rep: simon**
 * ca assembly 18: idk
 * county supe: idk
-* da: pamela price
-* measure a: yes. keep funding peralta colleges
-* measure c: yes. tax relief for small businesses
-* measure d: yes
-* measure e: yes. fund oakland, tax landlords
+* **da: pamela price**
+* **measure a: yes**. keep funding peralta colleges
+* **measure c: yes**. tax relief for small businesses
+* **measure d: yes**
+* **measure e: yes**. fund oakland, tax landlords
 
 # sources
 * [ac greens](https://acgreens.wordpress.com/wp-content/uploads/2026/05/gpac_vg_0626.pdf)
